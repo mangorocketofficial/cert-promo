@@ -1,59 +1,59 @@
 {
  "version": 1,
- "generated": "2026-11-22T10:44:50+00:00",
- "coupang_updated": "2026-11-22T10:44:50+00:00",
+ "generated": "2026-11-22T19:43:55+00:00",
+ "coupang_updated": "2026-11-22T19:43:55+00:00",
  "coupang": [
   {
    "id": "cp-9737084368",
    "kind": "coupang",
    "title": "에듀윌 2027 굴착기운전기능사 필기끝장 굴삭기 + 무료특강 + 모의고사 + AI출제예상 + 빈출합격 핵심노트, 에듀윌",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9737084368&itemId=29141037832&vendorItemId=95841944007&traceid=V0-153-b1b9fae2657648d0&clickBeacon=bf70e860-e661-11f1-91b1-e49753d366e7%7E3&requestid=20261122194452300233634314&token=31850C%7CMIXED&pt=1&slot=1",
-   "image": "https://ads-partners.coupang.com/image1/Ha-EpZs_H79xSNJ8HR86rO6gsDlHSefpJj43AWtnMfSN6gW3ZzP6e9dW-iTPhM2vO4H0uXhvTUlBHm5IylXjwQ2vM9nR_my5wAsG25YMAJpTu30J7HwGzoWObS0kuXeQrLgbogHdkrLkybaRNmfogPqc6vRXq8SqHewNnWp7QFJYIhHUx7EO6xQ4mhuMOQxUfO4FT9jPOjVB8X6rw1iO4vb39uaOk7VNRsifNCltHh_-hHLhq10IJB1MtY2Pk5fgHbujXyX93r8RLOzBEPzZtmE3xD6CUbncdyKkWE_RHvubVs0ZpCW5zmuE_IxfOnFM609Qlvrs8ElmwjkO1CVvtXoF9oAP3YVKQ440omCe2NGzLg7mHuunPg-VmUVu5Yzuslc2fl-NK5CRDZ2BLMosX8yCZUbYZoUsNnGpqwnYlC_9nBIsNZjK6iJ5cPe70opmgr8Caha84Q-eKp_JWHfy0RRLTvBSy50cQ6qhnGg3zTl7qUMqtO2mUwvxLafx0CTiVujtUMCLBqGrVxuLWQPC0yckcj4847-r6StqfQzCFd6iFn-Y9A==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9737084368&itemId=29141037832&vendorItemId=95841944007&traceid=V0-153-b1b9fae2657648d0&clickBeacon=0e45c460-e6ad-11f1-9b8c-f96d47fa70f1%7E3&requestid=20261123044356790279955663&token=31850C%7CMIXED&pt=1&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/-fg5YLJqufX6fT8l-ev0td8TRr5RicCLRdGXQK92aUoV7k1XxYSl6tzz4qdZALYIeB3C_1fHldwe6QlEgD-v364uDlVWZgX8Xy-kENNscixlqQV2ILk-iLpRH30_flOdHmG8h2QYnXMNFGGi0UVH0kYrz5A-AWLb9IrMz62ArzhS12pM5FN3pZS0CzLMyLAVONqdUcS1A-QsnigeoP9bFudirqtAS_CXKkwKBDWw3wqQSz4t82ceCpOdYyH2hFEj1MLLkwyMkaqyvKezu3rir2acSK3Zc0OSGHsSVncQYKuvXHkJ3-kv9USkgbpxmEhoZ2dOKMNmIEb28coWbJAjEMPOP5G2bhMOhi2bWAbEKQ3B_fmFPREja3BZqwo8hx8ZcmjlDT59bmGTPZ-8MkzLNzql8Vmbg-ILSBo40CcRM7p1YSn5H9ovgzjuQouP0KbWHvZoCzQ1ZMdzRztaNnAKaJb5vMLb9_1MP5as6ks3SFoYwAkfpghJQty5KkKQVuPfHknISf0aJjyI0JFYR7rQ_nkNuxTrb1vCIdjIagNb8jXh6TM=",
    "price": 12600,
    "rocket": false
+  },
+  {
+   "id": "cp-9715667060",
+   "kind": "coupang",
+   "title": "2027 에듀윌 지게차운전기능사 독학으로 필기끝장 + 9개년 기출문제, 에듀윌",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9715667060&itemId=29071858342&vendorItemId=95815966209&traceid=V0-153-79740294cb917ac5&clickBeacon=0e45c460-e6ad-11f1-93f2-ce3227fb80ef%7E3&requestid=20261123044356790279955663&token=31850C%7CMIXED&pt=1&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/b27XRQ5dtNbKcudmb71J-ZM8eudh1d1DsONVLbk2UqKxn10kQbWyuUB85GX12HqKztIaL7qk-PKuKqjDhDpmfNAn_WfaydWFk1aJjp9_dkboFyrQbNxgsunfaCe6W4HDGesi0U6xgU7oAZULI4pKFM4i66L2IoXCdSWvdx4JrA7mvr4EWIt4mjEBMCq9WqjkgzRqN6PXLY1Kz5RW7714jaMN2kUIdKjimxEWjefNWiubvFqLRiwUtC04basF5mET2p3A_Bib_c8j9oWrLWDBK60MCbX2VCz7j_QGDvO79yvDIFVfkQRg62yoGe78SYbbw79ffLmkFefsS6pwHRr2X1dXhv80Fz1Szikg7pbp-RThtRhPICt_V2wBRxJU-6ei_kqMXn4F58piFsgYWQmpNfqF_LF6bWAafsBp2KQyXZP_PkxMbbJBFhZn13JD7P4tv_O45q8L788TKZm0wmVcGVcOz8rCIFbYtXtpYlMhGpTNH6GYqZopCkKjWnguTn7QD13MFutEu3UNTCHi88XeBdqu4g==",
+   "price": 12600,
+   "rocket": true
   },
   {
    "id": "cp-9185346448",
    "kind": "coupang",
    "title": "2026 기분좋은 초초초 굴착기 (굴삭기) 운전기능사 필기, 시대에듀",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9185346448&itemId=27094701360&vendorItemId=94077584159&traceid=V0-153-7c5a9e4fed51810e&clickBeacon=bf70e860-e661-11f1-a30d-982d6e8ce08a%7E3&requestid=20261122194452300233634314&token=31850C%7CMIXED&pt=1&slot=2",
-   "image": "https://ads-partners.coupang.com/image1/N_xXJpbrai7S3UWmN6rxZNZAcfkKPGlkIU9CAodYH5q39f-coJS99b6BhKc9hMSj_8QW0WH1S04Z8OXLPsqgu95t272o5EkIytAEdPQMUKphzx7ofZRuYUTAhUsmTKAofGgz154fsF4i4rjnAojyRaI8itPw5um59zGy4MvmsESIerUPxEKJxeginypVL9Hani5cP0gNfSKxhzRxkQY9gtUqfWEVGymIxKCva5q5Tybv0ltEC3RD8_PtY1mvewREg87Owll3CGuby9piAF2ISxuyOMDq2n1VoLOJfzxyPi5ILFgGSKraRRMPE-fZug6W_J8Ntr1MjvBM4b-Wt32_am0Ltm20lPBZJYaFizl2Jpe2MfuFAKCPpXseNVLbNfDBLfBBsZmN7g_7fUnSt8F9FHu0VAzwIw9rWZwWwNDIWsPCSRMnCPkp1udd8WsCik-3LwSuejt0fQ0y6H2WesHchb32VXBq5zOaj6GaredAfjrVYSoo4iC85vUVjJ5UU8NV5jblJsjMbkXChXdn39gkUokY9ay4rpAnVGNJ6G9N8lyQ_wg=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9185346448&itemId=27094701360&vendorItemId=94077584159&traceid=V0-153-7c5a9e4fed51810e&clickBeacon=0e45c460-e6ad-11f1-a8df-6e4d2e100ba2%7E3&requestid=20261123044356790279955663&token=31850C%7CMIXED&pt=1&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/vmg325BEbztHUKpvviAY-l9uiAqFKWI2Wv6VCN3SZA_UvK4Z71wLzHoClrJIy-kZt-5Vxf5lj45QTUVGz31EwGRxFaeqGbxsNCcRXichRjnjPabL8jJuJXhIX4gmEQSp06m96ECOaUfWpcfzPdGOnCoXofckBSVI-Fz0xuQWMoEHUDaSSEGVCyEJ_7b1EiCzs8knMbV0dcrE9pPemGvQ5QkHtIbapjs57aoFMDRl0NESX5RJM_8lNmTKIeViAeAetildI3ieiZMWLKDPVMJtK3Gg2EpIX0M0SrHBxQgrGLKJlB2GM8M9TSPy30UBuxI2Z23SyQV5CqLcFdtWL_F_Fed1l-XsEM4Dam3SPcaj_6eJ25kb__5DOFVcyRXtNkKywLA_Mcrr8CmjtYemVoP1cyQEUtZQ8tql9jIZRtWf2gKkb_kBMpCI41svtNev7qCXTIf4-5SJfq0LJ6m3haTWdqztHipaQ3HXNY36R1ZcLKp2H9vPZ94phsMAozhn1aBpSHqm9MqG4Q9CMq0mosPxjURqXf-GHPqnapKDKGm6eW_jqpRunQ==",
    "price": 12510,
-   "rocket": false
-  },
-  {
-   "id": "cp-9767755621",
-   "kind": "coupang",
-   "title": "크라운출판사 2027 1주완성 굴착기운전기능사 필기시험 책",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9767755621&itemId=29236068531&vendorItemId=95647491700&traceid=V0-153-ad7a200a1bde4fa9&clickBeacon=bf70e860-e661-11f1-8f50-5d4cf57e530d%7E3&requestid=20261122194452300233634314&token=31850C%7CMIXED&pt=1&slot=3",
-   "image": "https://ads-partners.coupang.com/image1/Mk4qcT4Bjlf48WuMMpEf0bN4JMJFuFRpDbzUassHisJoKQeDkc_LrA1VrTt2X7knYRo0NH-lZ8T3L7-SpugmwBZlelMVwtD2bIA9uWpI71pk0SLOZsDamNutX1hiINpvCahVxunz-pFJQHF0Ik8-XAlN6Qfdcp8DSSPuUIUMPESdwJ1Q9x8v_s3EArzHaGZebxESAI_kP52c5mGcDcQluKhOeYLxV70-FyGKQueMG3XeW6yMOQMFWzVPnUHBxgGZete1C_CXahFC_CA4L8hyt_YdGM4fd9pVXemwO3uHFx_0pDhXKdhKJ4IMNH1KqDV6w6BJu6xatitZgfcCGcBAT0Y7_ljNDgvvAo04IuheVhXDEu9CQs-_cflVA7XgwvwQaaLiLwmBIf7U7j0m4cRhLxU8O0xfS030vXeerCYURpAYnC49kFL5qXofl0uMYgO-c_dj3egMNHcht-M4uUhYdMJaFeulUWzGBD0c_TsX8sIQUS7SREObwnu9PZTBim7_ucuDd28-nNFpeho2-rPv9Fyg4SMOt1R9ifpf73hTFmmHlfM=",
-   "price": 12600,
    "rocket": false
   },
   {
    "id": "cp-9813302019",
    "kind": "coupang",
    "title": "확 바뀐 굴착기운전기능사 필기 [골든벨]",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9813302019&itemId=29389533920&vendorItemId=96300892202&traceid=V0-153-d1bd6ef1182e317a&requestid=20261122194452300233634314&token=31850C%7CMIXED&pt=0&slot=4",
-   "image": "https://ads-partners.coupang.com/image1/uM-QwOQIcQoKsYYeuKx-dXCWvonbi7smG9HuvrHjuq5RGhlazDWgJ25Yg7Sm-Nm6c2i2oraxYnEHT08xIaWaDIUPPk7ak-a1-9I45BF2naNrPchZdfq0g82gdr0UIEC49ELp7UclKXzMZRixEnrd2Tb82ao1Y2_NRpUCCfVQ7nnBq_Cr-1qO9An5T9N4Y1PpbK1caQcxVnhhSkiUmNKPyzRAjc8PsQJU5REqWGjFvLLsTtEIpP4xcM7l1Q3acDsb5lDqKlXSYFn_9VLN4Fhkx6lsstfVYuZqHvb5M3Er-Zddduzf7iSiSO0ldeXqmvrAiiSuQSYO4MipLgXrQeufEq9qtrGjTczGhntGJ5uqFXLAEDdVGBqZZMYY2iJC6WfKv4_Hiuz6dGbmXj7s3b1ogpA_wBFqIEvzAEZOMDJ8aG1AjZtTCBGb--peM_axCjKzBKMAUtAxad8_2PGH7kMY-vRHHGG7hY7UczhGzo7N3fzwo3_fWiESa5R-vg7aDru7QS4ACya00OzWzlqsJI8v8DAaLgSAwr3LvQmyGGjWAFKNYFZUPb3eRFlzEYZ-77b_",
-   "price": 12600,
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9813302019&itemId=29389533920&vendorItemId=96300892202&traceid=V0-153-d1bd6ef1182e317a&requestid=20261123044356790279955663&token=31850C%7CMIXED&pt=0&slot=4",
+   "image": "https://ads-partners.coupang.com/image1/CVE0Eq2aPJgP6G3HCa-riHv3ucGzo32K7RFKYtE-TxIqiXU5CKTstRi8K99vPJbQ18ZhvCnt7cNiBcm4p5TGOaB7YTA-fHYVA9oRoR8lWndd6zMONf44qf7X8rLM5yEGQ4LWfoe0LvHq0Mih7yj_hdj7tGqXy-sJbKC5KgyE3GRMqTdDpGOguKf6SsBKyLcl4Pc0c6CD5LB-Qii_qc9QK6ro2h60XYf8LVqCrrrT1bUvlfrnTD3iEgZg2MzvHuBBf8MR6dprCH9EKRDIE1E6o0vyDVZrKJK8HelyC3ejY6IhnvTLddiKrvFPLh1J-EzjILcTgC4OzRNEIMVgZrTFPXXW1PoDZY3wIl9spcTR-knx467CLPcV7yG_hRXwIYAIz3lHteahOgT0tiDG-WlMzkhIN_iXIKLEmAz2jgNXozwJruhdHANQs4IT75rf8GWk4JEBRq0ypbADodU6dvZG4h8CnuL7M_2pWKUldDzaxZiNpSaal_VSlxpUXb_z-BTtBHxzxSDIrNgKY8FOGwTZ4aP7yKnPA_UZP-0pOlgvvx2Z9YH44h4ZlzDklenh2g==",
+   "price": 12600.0,
    "rocket": false
   },
   {
    "id": "cp-9792242110",
    "kind": "coupang",
    "title": "2027 굴착기운전기능사 필기 기출문제 상시시험 대비",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9792242110&itemId=29318294440&vendorItemId=96247070951&traceid=V0-153-8a5bc509bf9baf13&requestid=20261122194452300233634314&token=31850C%7CMIXED&pt=0&slot=5",
-   "image": "https://ads-partners.coupang.com/image1/L3H5DL5HcnN8bjtxL_pdwQHFWL7OuuiwfnpyLRdknm7d9k2se4uf7he41k40vpQL7Pr4S6lNIOU0oeKSCnmxIh4IRZ3-VusCiuYFvb66Phm9sqAtegJNPmKuvVbVrsD3e6cDvQnCE3Eg8bYCvzqSmWWsSo12rxrZV9PInltomMKNUFbwh89WqBRKWeq1ZtSo9pPjnjC1NncosrnyFB_KBOpbLiGr--6qVOgahGsd1767mQXJbVYoBF1s3COv6ft4KKipx-1ofyVJoTYM5q3Z7XKj5FWa-fT3wWy0Nzv1HjBw42Uq52bQldWwWL4-D4aGCtFWxz0glcxwpMmCPgSr7hUk5s7n-fBGtzS0pPRSQ-BK-4IvZZ0yD6nuiUVm9YF3kDLSaCFxA8DVoM4MDZVWaXQ-Z5MLeBcsP3BmjWFibbiVMfyZsIfAyOnmqpcAmBCZvx8iis8MDrvUZYgtMJ2wGrVsw835S0NhdocX6HOXuzwOA0fmjV2CGXFF3yl5sLhbd7jzbnOvnt-XlZvQIrUMYa0JsuB-Ji33kZ_trwwA",
-   "price": 11700,
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9792242110&itemId=29318294440&vendorItemId=96247070951&traceid=V0-153-8a5bc509bf9baf13&requestid=20261123044356790279955663&token=31850C%7CMIXED&pt=0&slot=5",
+   "image": "https://ads-partners.coupang.com/image1/xlsRZORlx1IwbyGrxjMhkTsnlFqxRd_BUxA11OdGuG45wFUK2RV6ACSKZecnvGZuG6Ws8olk3aa1_Qq0yrMsrgpJ1T8FPzTFww1tS6-b9Ik413dP4Vl7dkM4hTkTk083yXxc3rwdQgF1NEk8L5kAEEvsehbx55_WcNfFaXPLni2ca1bVkX4pEaCwDryJ7FrA9DSWvGrYT5y10NUA_an7pC9oCiHv9xi1-TXCr0Q-8G3Cydr8m4byA_-UTHVwW_Ym7ugAFYYDOAduTCrTSij2T_LWlEsG73cfwJOZnFvaM5ucTnx28CTP1ECmQE0dxa4qVQmHGpe4ADjmzn65XYBt47W5ZsT-kGGLrGczIuHiSxsRQFN50eoceoeFNv6xzR6q7Bq2E-UzdE5fZcAd7P0vFIsoSBaBVUZwrkkRDPOaGR6PGcaLpOLIl6cX-K7571CvZfaOuFnDj4RgJ0xOnkPAvbhlTkNhe11MA2c-Aum1KmT8-ipkLl_wUzIOduKvohTfKNjAORzE2Kt36YCitsPYxy7OY0VLLrGqZBhxIKFX",
+   "price": 11700.0,
    "rocket": true
   },
   {
-   "id": "cp-9737084368",
+   "id": "cp-9664541550",
    "kind": "coupang",
    "title": "에듀윌 2027 굴착기운전기능사 필기끝장 굴삭기 + 무료특강 + 모의고사 + AI출제예상 + 빈출합격 핵심노트",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9737084368&itemId=29141037832&vendorItemId=91463136607&traceid=V0-153-b1b9fae2657648d0&requestid=20261122194452300233634314&token=31850C%7CMIXED&pt=0&slot=6",
-   "image": "https://ads-partners.coupang.com/image1/f4snEaXfcykIOfN9f3Aj1VfbtpTKUfMel7eD_I3tG1ZCFkyPl-oUgh30743fdRfzJ_AfSVCPjDecM-2m6f_X2bxG_37nb4dfTJMsakagCu863TD2w1AmEt2z2SAF1hinG9sPWIMommMniJGb6KqdjxehdzGFAZM4_cArMADclvAHr3O7-KieqBbPQUtA14KJVZW-vNWQyn4n00zaj8Acc5M4cNIJ6apc7uQ-iKJ_K6XL73kedIBDC2e-7YAoLi9kuEG_5LpqeLcAs8NY9xkGcPj9DqImatJ7e7573XGt0vBJVor7urTWSV-2PB4HAbIpOHKzdRe9xZVxhll2XTZI6lYEt5q66p_A4ZrFiyx3JClPNPH9XR_cD6IB8_QvbjaXXgKGgOJUEO1xT9Poak4aCDQKj5SEJeSO4nTbqOIFXllwlMn7-Eshq35x5-CaVHu7gPrn1Am_xGPUyEBHmPsMgUGh36_f2JaBWIPAptAd3_1N29-dbnBExMbQ7dHo8YzLwq18tDPCKIbeTkwBxOZMWvSjoB_CbLILZGT6O-cdasHW4EnUEHXCaNhCRa0pcg==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=excavatorapp&pageKey=9664541550&itemId=29141037832&vendorItemId=91463136607&traceid=V0-153-e659ac49abd40a9c&requestid=20261123044356790279955663&token=31850C%7CMIXED&pt=0&slot=6",
+   "image": "https://ads-partners.coupang.com/image1/PNHDDZgpltu09fuUPD-cwm--VQn2-RqzufhJip7l9tpe5YvKY_ekcwZnybfdjPkqcnWz_BLB9oup1KcZN6GZqbYwEZSzbYz3oL2LUGKE6UBV67CHIDAcPpDQqMjaBeopBf041MeeH1PMeA6PAHzWsD9vaGY0vJg9WEcGUbdvao-_0gVucYfKuD8NDeVh1EYciihCp5lgxKgGYA4j7BcEkKjK1fHGzvZlzi8vN6NEVQEbYC4ZWJOA9OiNkZIzg0-1CuW-xNJ9EW7JK-mhn61OfcoJ0V1rXr4tsJaDQ6SbqWeSdCAPZFb0jfCl2TywwHXmNBvS2n2CLMwsjYaNOn-UKmhQaecr9dEj8r6uv5GWm5GkBM23F5Xu4dpUeNKklHbt5ZoVuVG-0zYc6PaZVuhvW702S3-S7uUqYB_fHfHEZCUdM7Q6tOrGsfdxwbuELpHuESxHXz5ClDE_7eACrkc5NZNiI1QQnD4HAga2EkeqZaMgT2os6Kp2Aws1Txa_WSqDn2XocXnbSnPv0-5qW4ucjnWw13QDUnOtRy5GYHZWaa-WR4fc2zAUHGUwW8Rn3aXW",
    "price": 12600,
    "rocket": false
   }
