@@ -1,0 +1,38 @@
+name: build promo
+
+# 6시간마다 쿠팡 상품을 새로 받아 docs/<종목>.json을 갱신한다. GitHub Pages가 docs/를 그대로 내보낸다.
+# 쿠팡 검색 API는 계정 전체 시간당 약 10회라 한 번에 종목당 1회만 부른다(9회).
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths: ["promo_config.json", "tools/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-promo
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build JSON
+        env:
+          COUPANG_ACCESS_KEY: ${{ secrets.COUPANG_ACCESS_KEY }}
+          COUPANG_SECRET_KEY: ${{ secrets.COUPANG_SECRET_KEY }}
+        run: python3 tools/build_promo.py
+      - name: Commit if changed
+        run: |
+          git config user.name "promo-bot"
+          git config user.email "promo-bot@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Update promo $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
