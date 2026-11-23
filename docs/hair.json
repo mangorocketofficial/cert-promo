@@ -1,41 +1,14 @@
 {
  "version": 1,
- "generated": "2026-11-23T02:40:31+00:00",
- "coupang_updated": "2026-11-23T02:40:31+00:00",
+ "generated": "2026-11-23T12:26:52+00:00",
+ "coupang_updated": "2026-11-23T12:26:52+00:00",
  "coupang": [
-  {
-   "id": "cp-9750223934",
-   "kind": "coupang",
-   "title": "크라운출판사 2027 1주완성 미용사 일반 필기시험문제 책, 크라운출판사",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9750223934&itemId=29194916879&vendorItemId=96115613136&traceid=V0-153-7d04ddcc23afd738&clickBeacon=424a5e80-e6e7-11f1-a89b-9d0be60125e0%7E3&requestid=20261123114034852294692152&token=31850C%7CMIXED&pt=1&slot=1",
-   "image": "https://ads-partners.coupang.com/image1/DT7cLzCu3XwTj0bADeAuxjd0xI6hLLo5ZXjp3rRdgJUaAoxiK4rDL30Byx-Q-tSQRf4LEpWvxnYgpt56IrZNJZVYBbYSXABtN5Zn-MRUXwYvQdA3W3bCV6o2IAqGZpSowZytqVm-q--dqzhnDSrzqIqUmY0JUxcYXI74o3xBFm7FilyOICek9g7GYCIampbuxTTVlQN4u6yPiFmcdJ_9qfHnquw7SMhOXEfZ-JDYUZcr6rqWdp-OvMWJ7xdBue0GoZscAKsQ0T1Q1Czay_iAn1Nz0vZ8CF9ppSobSU_OIX4IxIkXeQXyUTI4oT1lA1ApoOC9hmKohgMnwjFtrBC2Oq3ns_G_ksu844qSWY272IbfPkCVHpp4Lf4WKGhRfsY70HuelC-m2fE6ISME2ZC4a_JEcvc2MAZm6GJPwtXH_cqjHXthcLsxEAbyO9od59OYkQE4vP-5_0I5n_sjjtSyjPO17VJwqcIk_WBZs5PT1dxsdJXWzy68tU1CWDNyQysEMcPPO1J3nhkE5JjezTxDimeb1rOstz-PBQSkXAmy",
-   "price": 14400,
-   "rocket": false
-  },
-  {
-   "id": "cp-9773776859",
-   "kind": "coupang",
-   "title": "박문각 2026 일반 헤어 미용사 필기 8개년기출문제집(최빈출문제 60) + 유튜브 무료특강 + 모의고사 + 큰글씨요약, 단일상품",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9773776859&itemId=29257206609&vendorItemId=95252592532&traceid=V0-153-2ee2be3f1d75f357&clickBeacon=424a5e80-e6e7-11f1-92dd-ca51c6d11277%7E3&requestid=20261123114034852294692152&token=31850C%7CMIXED&pt=1&slot=2",
-   "image": "https://ads-partners.coupang.com/image1/1X8nqWbWS46SOMzr1WxpycHa6e7qWRLhFH0IqRu3_ugXoMkzag6ZzmAycYXKqUdpHWUHPDvDo5z_Ct8vCnX_-EFq3S2MkcFdoqpafVljR2NP_lfeIZ9ttcpBos58AdiQkbevxkyUNFMjMlNbAgn2UCkB8L5JGXFasB1whtYOAi31Ra9eyaQQi152vyTLMDTu4YWxE-rvL_r6TrlrZ9mFFzmFsjYuc0M7L9ff0zzInifcJp9THzEF_ImX2EadimP-F5Mu3ss4SV3jJPDtFSqfgNkrdHQKFghsbsRF1h2ytqTUEBEDmTvmd-9-sU45rSS0jATuzdg6vVrnf8zfa3NDmQ8CEmwlbt_kX-imrYG3B2yJ6yDWv3CyZMRsToVWZY-BmHgmsIlFg2b7MyGOVCVxoiGE8JWrRpiVv7OmbC2qDqIe-9jR0hjcmKIjx9-lgpJbgEFA5SyaoqAecOcmA0jJKVKXU2bu6YT2ETW5KaPsNFnNAbbpXcJhUdf8rLryB_NEBhfQi9brGkJymMBninkX0EmkAEeerugyNBfucRGvKA==",
-   "price": 13500,
-   "rocket": false
-  },
-  {
-   "id": "cp-9247705895",
-   "kind": "coupang",
-   "title": "크라운출판사 2026 NEW 완전합격 미용사 네일 필기시험, 상세 설명 참조",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9247705895&itemId=27350635684&vendorItemId=91731459563&traceid=V0-153-b112b9654baf8c78&clickBeacon=424a5e80-e6e7-11f1-a250-c9ae2def1e3a%7E3&requestid=20261123114034852294692152&token=31850C%7CMIXED&pt=1&slot=3",
-   "image": "https://ads-partners.coupang.com/image1/aJkzSgmlw4uz8GTUaDGnCVjqLjJDaLB6bop6d4LqLZj5gGsy7Du1cegYOJmKNUPUv2784ewNON0VPMD3zZxBbC0gciaEB5bluqD8IpPpTMq5Skjo71Ju2mbQG5ZTmRsBaxg_fjXp6RqognqFmJOsVX9CCXrnAbyHNeNUoZvyU89adS04_Ks_eN9Woz1cH0n5xdQ3J1Cyv_juwYAN3njUyZdERqqHVadHVGwJmADCk75wcVFAjw-boGoiJbkxiE40e_RCv9BFVW2G72hpNZ6IVpRM5U_J8IKh8qSDC2KnH3luNq7TJIbmBTgZ4oghJBLDrSmV4DMIEXg1TEsQ6SZ4UzM2m7f2gpXJ4ZGEs6kLbbNJjM3bAItgDNazEl3-G7uqjTDQ4N8P51sbsrZRJFzORdl42AyAR4wcR8q1Yqli6ODn3E0mLFc4DBCZ6KLEXx1GTTbKF3yRKtXdLzDitXewXY2xTkHtXM9hNljUDoqboMPjye8fpi9nhnfuAu0Q08JpBewNF80yCzlLLj39Smj-ynQfjyYWR_FCSwAMwFWw",
-   "price": 20700,
-   "rocket": false
-  },
   {
    "id": "cp-9814884575",
    "kind": "coupang",
    "title": "기분파 미용사일반 필기 - 헤어미용사 필기 2027",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9814884575&itemId=29394978262&vendorItemId=96306124817&traceid=V0-153-5cd4fcd447541398&requestid=20261123114034852294692152&token=31850C%7CMIXED&pt=0&slot=4",
-   "image": "https://ads-partners.coupang.com/image1/xwlQOdYJpvFxwIbSx_Vc33anMWbTQy6fBnIMSFy9Kt5wQFwEeMB5yjOTvwglK3BWmzmLfp0M4ebol9FXmBBGlBjyivmje9yhTNMMWmPxQOnruwIIj7CyVnFL5xdNffvJSjj10zR7x2ECzsRvjXh4tSlOcDCHagJ__MuFQf1JKn1zJk4j1fSaLunC9ccZGN2qbF7Cw16EQ4SG4xZSsA-nvOweUNuqHsTZmO66IjFSRK9Q7Px05fai46-2UgtY7QoeHkFkILZMzKQIckPa-VmjzhjnJVoXEeN80wyKhC-NwaybVWJnGPMW6uUB5E0YVImhztvd3DxVjuYFv1s1oZfE8NR7ImubCo3aoGjZhTQPLIOps7uWbpLUR8U6nAja4rLqiHSvTW2ETWayhGnnlMNrcRSWzUXQhPKfoueJbf58oTysZo2nefhd9eKXmAmRRpASqRiNO1Y3D7FTXPku1LG6xWDzqFerVEipv9oVX7zSP5lXWl2mQM97P-ZwBVxJEQHJjXA45hxYCLmNP3kTc-VqWZfGN6om2Wd9A2YFwroyjewMi26ga6a5D92W",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9814884575&itemId=29394978262&vendorItemId=96306124817&traceid=V0-153-5cd4fcd447541398&requestid=20261123212657473275692094&token=31850C%7CGM&pt=0&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/cu3TkpSnYAIS5qRXciKd-mzDC3BUNhsMds5aIJY5bFBdr1T113os3kALWFWMlcMxsn0UEAJCb0TgbMK63rsOU2vpVrDCH-8ou8hKrjpiCaASOVpe_SS11o4KX1vI9PxJ6c1tIvG0weTc2o6s4hgV30WEjzAEoaF08rN8i0rRbwrJTx_L5eFNbTFPw5I-0vmieVw03d7uKEgcuZYPwLQTvscCD_nJEe7VKg4GS4-7miYS-vTw5GXJze61S0vMgvvD1INuhw1hjQyYteyHgZVLNpJIv_3Rr0dlfTVD_gW2GMBJx078E752NfFBR2JZdRN5GJgRQ7i9a2YjLvXuyVeSCs0d_WaiON_ACzbm-lUy7YmmjT_xYyGfr-LPKMAGF9iwxith0BWWy-jMEJdzOvxi3ErIjPVMu-bagOYhVU6K-IPcJhWJto697AlZI0EgZVafruBf3aJckBdcDMQsmLPAOslyDIcJbufWJOO9KiRBEBu__xZ7nCmqonrPSrBLWyrVZaJC8fJHFP7aaTnyVpBiLJ2QzvpH2WTpmxqRKQFd02MRecJJ9T8=",
    "price": 20700,
    "rocket": true
   },
@@ -43,8 +16,8 @@
    "id": "cp-9005526597",
    "kind": "coupang",
    "title": "2026 기분파 미용사일반(헤어) 필기",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9005526597&itemId=26393257741&vendorItemId=93384869314&traceid=V0-153-6f128b2e4c766f93&requestid=20261123114034852294692152&token=31850C%7CMIXED&pt=0&slot=5",
-   "image": "https://ads-partners.coupang.com/image1/-VYBaueo2LvkU6br-RiEuuFhmlpehWcCWHNAyXRsjyT1pycwwjcWeeJ76qQoqcL0sxW5RQCG87ImOM1QGe-bSaNQvXgqG-h9-7Id26O5HR0qpp45GgSfxMBAjffsWNetBaBfbNTFE0xWG0RF5cs0HekefH6-tUxBiG7uDQuD9y4_v8VqNA29Cyfonay8p9VQiPN_FPSoVHbvu1GljQNS-wQ4A3Mo1se8GQaHbScrP6uW-FfGFAbmKkxbqLfIRcMgoBisqu6MVYbfDDNczuy40t3rWmtL5aut46AAVU7fgDxgqwFbov3C0JXO5d_FbBn3R4fTlduBoNkqiBpV1IxXWJW-x56l66-9WTuNFInFe8zdJEzGoRxfAr_WUX7M7lU2n03kG-5TOt9EpUHDIj26CSu3Ff0zkEwGLtb4b32_BHVDS6tWUPAIFfZcKHzhtoZ-kRzi1maJy7wz67ZMlyFNabrxcPe0nJX7iNlY7DUxpzMBqZTvb9Yx4yOgsc-0XJq5dlSFu92aVqNMdLiUAz4L8Bqh0oJjGiCZuNE=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9005526597&itemId=26393257741&vendorItemId=93384869314&traceid=V0-153-6f128b2e4c766f93&requestid=20261123212657473275692094&token=31850C%7CGM&pt=0&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/f18U2sjezCvzX9ucf2qItrRP-9cCbR_XDXIpI8DLOCihP2ojM-T8tqJ4cNUpLD1IWnVcCIL42aZ_VYnV8_BYNNEkjujSAJdY3EcjbMge3fD3P0W2DaOqurMc29T1vutLp2Pd8UaWBuLlC9lKK1TIsE5s_0vU9TZviec-KDr1yBvB6eVCwgCtPQHzM38f0HkOVAtqJKMa_0Qq_GqWdGCkKNCFL1gReQwdijwnhMSEPh1LU58JHSXY2FbE2PYFTTz_wkZ3wLEsOIqokLU2aOpqSXpPvYJN9BCA6E54xN5BdxIaexZ4n5kBIwwCRPH4CgBeImHEBqHIVd-_iGCabjpCiAIGO70GdTgps4a6cT2Bi1Hx5CocRTQUkOTCWwwj0DZ4AilNb9rriW-As2dzzmqxXkM2hPjnLMQ9qxCAk2ujW5JQNtzYfwAwO5wwqNoi4iDu2KYvN873yhBRlcpKkAwueV0FlMwjCthZkw5IB7s4SInGU_Y_1eC-8FF6r_8KQKwqp_oBnZHNqVxmADGRVMRHGDMrwogi5A==",
    "price": 20700,
    "rocket": true
   },
@@ -52,9 +25,36 @@
    "id": "cp-9793832253",
    "kind": "coupang",
    "title": "2027 박문각 일반(헤어)미용사 필기 10개년 기출문제집+무료특강",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9793832253&itemId=29323723570&vendorItemId=96240732095&traceid=V0-153-e55938dbd9019ba5&requestid=20261123114034852294692152&token=31850C%7CMIXED&pt=0&slot=6",
-   "image": "https://ads-partners.coupang.com/image1/-QfJTaLGJxioMwdK-e0zZn529GAfVZAP3t7HHjhUIThgF66ReTsi6sgiV1Jv7P1cijWR4Fv2V36EBgugPpB28HtOZOpj79RNK3xCAZT-WcspkJk3CWo3q4CU83kMsYv6zgoW4c0jNo-Bcuhc4UH7r-axahRXEjJdh5FFweeZC0PdpwL2avJCM9b01UWUu9tRXWYHcjjDljBNRljIMAyFSlWscv0dFE1-iE3mQ_3I401A_RLVv3_wkL-AFvg3cELyIYaTOsorhFjR7sEg7Hm0JWNmGBpPr0qo9WEk8R0CMwEPjUujLxdF1ZWBRp2k9YccPfQCNJkyxXaNPZgqU67SGami2IgSwAADmLNORrFRsox1LCSr8argp5WoTKtl2Ln3eKMwlcZCVtHw0XUwA3mNaKdJ9PoSOc9cv1rQxuWZmjhRjZgToWIHRMuQQqawW5ExLdbhkuLLxN7ZmtJ_aW9_d3DbovKEKDUt6QgcAkSRWi33a3nntTJS8efrGhE1naBz6RMvlwk_XXoIeKu1NQalrM0sko7VCdRhdB8=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9793832253&itemId=29323723570&vendorItemId=96240732095&traceid=V0-153-e55938dbd9019ba5&requestid=20261123212657473275692094&token=31850C%7CGM&pt=0&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/JqFLjaW0KIBEBpZNJmi8ELWlLvxmHVZ0KHrG2YAOZ96klDjuAEQFZCFYILo1tJnG-r4-kze4TVMWm2qd-_YYsA67-bayLI8b5mkBo4KkWzJ51WAIv3oRnejBBxutiyBLWVarftkkJbxDPiRqsJiF4X0q-RmZqgq_S32DrFOL_-nR40v7nBaQak2kx2QSl3ljrz3K-zbXMATeCduTenmi__cF5YMUNCMY_VACSyt2f4Wx3rIWgxbQ6uSVB2cbRBcnppB0Nl31WjBlkV366Q-dM96IGFfgMzax2UIYwoaCMokkR88zkWYpoM4H3mcqXdiDYUY23qg7ZQ3qEopCuUnTpQINnrnnmH8GzMhhQlzprQ89Y7QUq9YFqqA9kLD20rECQmMDQ69s1YDWJgmNcEQclLqVLfyFr7Z3lAbhldi4R0MBuyrZmo1WC8tY5-_RkFMksR9XKr_dq_B_RswqYeC8e9hiMaRRRubfOVP4Mk5gMDSouPgoF8m33IL1cRLLFunR05obuoJVksPetHVG2hiKyhLbT3vY910=",
    "price": 16200,
+   "rocket": true
+  },
+  {
+   "id": "cp-9753051670",
+   "kind": "coupang",
+   "title": "크라운출판사 2027 적중 100 합격 미용사 일반 필기 총정리",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9753051670&itemId=29203300810&vendorItemId=91507293295&traceid=V0-153-6f61229de066a21f&requestid=20261123212657473275692094&token=31850C%7CGM&pt=0&slot=4",
+   "image": "https://ads-partners.coupang.com/image1/5huUN-xAueOdfuEp5kkhEUaDbjovKwbRPhdnr6Bhdxd5yY7vyoMT-s_PBQ5HvTD-2NRL_KsU7zOBvUFEWhe5eYtCt8sPwFLIaAWATFl2qFla1lzKhc1oF_RbH1Hs2be-1h7cVwExP55b7rxtyFguxc3msoLxe4Cr8DKNf_NZ_L-VKYtnVF-ONibXJUPkwCL6SNntCLvZgKuG2Q1R_e5nbQXpgXRYxIkJK2bP9NYo62L0mmw7VL_2bWPZ619m3OysJhlcCHN-mGTS6H3_0q3L4Kv4FYtXUzfFGACLeBheZXMI4buJqh5y3Ja33moeTpTkPdO95ecv5xDKML29e2jJs1LvgFGEB7k5Sz3LSD_yYoatOpuUX5uFFReIYHT5vZSQ-C6ZQUgs4Ub3M9j836SoZb2p73aBcHdJgFugrim1dztUfGKwIWTW8MLdJ2dkHnMWoroqyxq9DVzdWoEx3QYmQ5JU75w5nzASqeoKXlHXVngpqLmSOxUUempbjpIqIyy80C9rKYC5qrz2S6SB-J2fjqRYrfBnVHeZVi7BSxu1anb_JNr-KZ8=",
+   "price": 14400.0,
+   "rocket": false
+  },
+  {
+   "id": "cp-9262252165",
+   "kind": "coupang",
+   "title": "2026 2주완성 미용사 일반 필기시험문제",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9262252165&itemId=27405908665&vendorItemId=95403156566&traceid=V0-153-0bd2d3a78cbc2773&requestid=20261123212657473275692094&token=31850C%7CGM&pt=0&slot=5",
+   "image": "https://ads-partners.coupang.com/image1/0Zl4xLWTFg99mODF0SNAajj3SR47_OrSM-Gz4c1b7vJDKFqnXM-jWS6cFIeTta3WI55DWH9NMd0q8tQa61e_Sc7o0l3XkrWVYgrHqLttYcVUn7GIspawFxwXU8uazINi0Q75GbAeAmsqdq8jmt5R5NgQcW8w1YWUGS67QBAArVhal-136LjdSiwaW2OquiRNB7ieGIpcXZBVawCAxD4glFhkcKdG3ErBInBWYtvmiku5S-val_wVtBRpBPzaCiAPp2wQgmVbGUseiPWljh0JywgrpyQUg1nq49M174sWl5cCY3RbeiGQnRwh9Extmp-S5XFqtHloCEI0XePyM_BZaD49yBAQPAq0BXv0ZXcrh0QsTijy9wMlzLQJW_A26JVHVDG1_v_N3yQyvoDEe3-WFy4rI1Gl6z02x71upU0tCxJ4SNvtIQ8y6Qxb26rRazAVsOSH9Xa3EUikUV2YQQ8wdJSIu_eSN7OsXPGIfVCTAw_3_upK6ou9G95-8ma1cbieNOVA4pn6Q4fVGJkn519dnp3FuA45eZQpeYtVNXkRHyxVapWVoyKI",
+   "price": 14400.0,
+   "rocket": false
+  },
+  {
+   "id": "cp-9736631388",
+   "kind": "coupang",
+   "title": "김영북스 2027 무료특강 답만 봐도 합격 미용사 일반 헤어 필기",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hairapp&pageKey=9736631388&itemId=29139388940&vendorItemId=96203620708&traceid=V0-153-1fb87e511adb5cd5&requestid=20261123212657473275692094&token=31850C%7CGM&pt=0&slot=6",
+   "image": "https://ads-partners.coupang.com/image1/8E0fDVczNcgCWHyC8KCR-p52n-f_W3rimv4Jzt8TSc1x8l5xmhllgBWXgMrZQX1QycprQd5nnb5zrf6wZjMkYioD2vOdSpd_7efmM6YULBLlsjVsqXspena8IDZv57ZWJWXE2zUctwDJMdf-QymJKQy8Qk0Zh9hS6NAdlHjpDG-8b6hOzVieI5Ks_qOlBX4fmsyGz16e-F1fw8XixjKQWSf49UgMwEOYEKbwc8LLUBlWcwipHusQBnEHVD5OTvNjNNHhs2YvwgIsFa-a7x6LrY919r-V8RSO01MWG_zkcxk6WtacNv7FhSEnxLC6Khvg-YRJI0p38GqE4_U-4EjrDFVut4lLe-yuhNVxQdXfYZzDXfh_TjH1muId92litlowuPaL9aqv0xXQ_iLXHKxllqNQsrJVvReC_zif61Oo2zZuzjauRe9gW_nffEtUp6Si9Tp1i2PkT-rxEDv3wJdJlAN5aPafEbClYjuqlYT6hXGFdX_jSyyF3c9HeQWuYm1F-xizhl6b5PpO8J2DJ4jqJY1AeTv4kwe3wIy3GH7tQJ1Hq87auCrL",
+   "price": 17100.0,
    "rocket": true
   }
  ],
