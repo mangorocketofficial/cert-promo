@@ -22,6 +22,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # 대기열에서 기다린 실행도 직전 실행이 커밋한 호출 기록(state/)을 보도록 트리거 시점이 아닌 최신 main을 받는다.
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
