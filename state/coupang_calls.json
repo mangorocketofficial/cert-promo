@@ -1,0 +1,7 @@
+{
+ "_comment": "쿠팡 검색 API 호출 시각(최근 2시간). build_promo.py가 시간당 한도를 지키려고 쓴다.",
+ "calls": [
+  "2026-11-23T02:39:41+00:00"
+ ],
+ "rate_limited": null
+}

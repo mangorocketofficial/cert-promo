@@ -1,10 +1,11 @@
 name: build promo
 
-# 6시간마다 쿠팡 상품을 새로 받아 docs/<종목>.json을 갱신한다. GitHub Pages가 docs/를 그대로 내보낸다.
-# 쿠팡 검색 API는 계정 전체 시간당 약 10회라 한 번에 종목당 1회만 부른다(9회).
+# 1시간마다 가장 오래된 종목부터 최대 9개의 쿠팡 상품을 새로 받아 docs/<종목>.json을 갱신한다.
+# 쿠팡 검색 API는 계정 전체 시간당 약 10회라 state/coupang_calls.json의 최근 1시간 호출 수를 빼고 부른다.
+# GitHub Pages가 docs/를 그대로 내보낸다.
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
   push:
     paths: ["promo_config.json", "tools/**"]
@@ -30,9 +31,11 @@ jobs:
           COUPANG_SECRET_KEY: ${{ secrets.COUPANG_SECRET_KEY }}
         run: python3 tools/build_promo.py
       - name: Commit if changed
+        if: always()
         run: |
           git config user.name "promo-bot"
           git config user.email "promo-bot@users.noreply.github.com"
-          git add docs
+          git add docs state
           git diff --cached --quiet || git commit -m "Update promo $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase
           git push
