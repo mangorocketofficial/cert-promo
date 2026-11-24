@@ -1,60 +1,60 @@
 {
  "version": 1,
- "generated": "2026-11-23T12:26:52+00:00",
- "coupang_updated": "2026-11-23T12:26:52+00:00",
+ "generated": "2026-11-24T00:49:07+00:00",
+ "coupang_updated": "2026-11-24T00:49:07+00:00",
  "coupang": [
   {
-   "id": "cp-9046656183",
+   "id": "cp-9054750648",
    "kind": "coupang",
-   "title": "2026 기분파 네일미용사 필기 (네일아트 필기)",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9046656183&itemId=26550799059&vendorItemId=93607815608&traceid=V0-153-8ba533e96a5bb2cb&requestid=20261123212700352122732020&token=31850C%7CGM&pt=0&slot=1",
-   "image": "https://ads-partners.coupang.com/image1/6kpu6KKY-0M7XleP6vb_FD8T8RImWog5rKJ_iJ5b8wYi-xtK48W0d4fFJg2SbcPSnlf5S2X_XJep_YPiEqp2KLRMxCCfE9vR3T2cE2Zww5vxvRK3XBWg4Co3JJo4D9rz6KoMHjLUVuHND0rGGnB-iFn2e5Q8tavqZRNtEPwCtcnfONc2hW-oF6XisbSL44ejVdsmujeZBxZysQoe2bYPK2erMuGDbi88QiiJ9l4nXqrzu_1Pacx8hnKrXHUgzZyNLoxAfIqC0vlViXR9Gb5IkkcS99VxdIs0GKhWvQ07bQY4lxh7lAxc8uRaXIaaCXAYboGGY77krDguKWXQFNGOHkYhclGrPga1ABWd_GwxCTMGaIXpJnIUxsz-yrtGFPxYzkk3XnSP3-QcRRjCj3XpnIe3IGDfY7ja0xboHnoc37Dr5YeWPhzZ4TmArhTZXq7YcSy7OnsIB7FRvkzLhXee1cyqzw2yh1TiUSMnrXK5To9jytfdfBaJOgHksBQ31J5Wsc5TtRj81Em7Hwk94Qdgk3ISEptP4mHm7PiAD6c6U3pNRgfRFYutcEGTiH7oE7gA3XOivANNs5sfQoUVEXwPWC8-Kw==",
-   "price": 20700.0,
-   "rocket": true
+   "title": "에듀웨이 2026 기분파 네일미용사필기 네일필기 시험, 에듀웨이",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9054750648&itemId=26578815587&vendorItemId=5123008238&traceid=V0-153-5a00c832aeaa76d4&clickBeacon=df415360-e7a0-11f1-a467-9bbaa17a017b%7E3&requestid=20261124094915102313476583&token=31850C%7CMIXED&pt=1&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/tt84o8PCP4J0vB9stjXQ9122cNZgLNFRpmc5pn-KTazSRqq8dIWOuh07UOO90YQhZ_w3CrhR7cHaOox2eqLNrX3oEpptbTTfnwjS98Rev1XRdVntKw5YlEuqnLIKMK1SsFq5pASQF9tf7CIhrZPGnTry9rL2rkYfP7RsN8g6osgu9UbDhvVHjEnxeaDUYkk_ABX_Vj2pGanbg5h04ylKhfTagR2bvdi8lYxvvkG8dHfDqHlJH9pJTqvhnN_0utyXvAoPUPMeoGIBz4ZFVoVjHxdF90DtFLHTiHqTMmAH8mtqZNarUX6T-dk8q-kwYABGq2m3Pv_cSy_iR7bcVhcGj0yfHUOmEqT0I95lc8OQG8bUwpOmS5FcpaW3yyFpaGWKN_MGRx1AvmS954F7jOeJaCdGM1i7wGfeHDf3CvSTjZGlPcwCg3hKso6DoE8cTEj5Wg_0zpx9NJ3w8Lj0901aCYWBNfhsOuWfBWZhhmd5TNBZu3EJVZqG36rbP8CPYLJ_PuR8o_AnXJolwLTzUxCyYByuc51R9oCkVxINQ8Gh",
+   "price": 20700,
+   "rocket": false
   },
   {
    "id": "cp-9669234484",
    "kind": "coupang",
-   "title": "박문각 2026 네일 미용사 필기 8개년 기출문제집(최빈출문제 60) + 유튜브 무료특강 + CBT 모의고사 + 큰글씨요약",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9669234484&itemId=28909622147&vendorItemId=94969327334&traceid=V0-153-988e05dca4d0ccac&requestid=20261123212700352122732020&token=31850C%7CGM&pt=0&slot=2",
-   "image": "https://ads-partners.coupang.com/image1/lJwF4siGPOpdeysklE3C4xP0XdCJ5UaW3wt-RCJuW5C8eozwoLpTd_zPXlIoAaYM-iqBFsAY8EgRcXSlW65HGWfTwBoYU2_wcqZGTYGKEIiv3lbLXtQ5I-579t0j1rESYb_kE5FR-U6fvqxKB1wCLnMjjti7MJMr8afayfBN7HdqXpn_fTM-N7wZ80Swi6ET71hrrs4l1PtOeggDejlhxjyD7yWAkNHAtdDjrN5CmxldoMXXAyn5i7MIGtMcu6M-IyLJ5jyE3CO0b3VvD4FxUhp_7-3DPC-1ywRvJlMsbceq4Ade3VehpTg15H0OqJ5dJkSf4rj5aOI7tISiMKq8WDBGVo6Zy-6S5WLQ5c48IIo1GN3Vag0jaBozxtL7et5jQ__7J8s0IiiWhcY4Br9jgMnCHfR3yci5bsAPGfYtxheBkB99TRtNLnlsFaZ5JnrcvnQg8x3l4wmScqiLvZnk9KBiyLswIQiOIfkzYx5fG7J_eibl-aeZ_DU4C63WchAo6o2de9Wj17HzFzTPlSJVISlLZkSE1dRdgrwquMdXjsT_UknFQKff68HbD-1rto4jwK7F7e3Q3XxpFfn60m3zOI-U1ap0VUh4gwC1PyruEysnqA==",
-   "price": 13500.0,
-   "rocket": false
-  },
-  {
-   "id": "cp-9187430009",
-   "kind": "coupang",
-   "title": "2026 2주완성 미용사 네일 필기시험문제",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9187430009&itemId=27104794077&vendorItemId=94106604381&traceid=V0-153-66a52d9afcf632f0&requestid=20261123212700352122732020&token=31850C%7CGM&pt=0&slot=3",
-   "image": "https://ads-partners.coupang.com/image1/mzN6IuiY9CEOIlmem6bAq2yhKH4mIDmRR7lGUteos0CPmQh7jv_n7qlRcKDZhP8fXpb5A3NKa76Aw6lEa1XxanYB94EAEKnPdElS7l36UWQHGwmCR4v_d7FmhOInOe9uhOs3Qz3w0V7n5lW38Bn1KJQxR8lnA8XUAAgkS-WYW0QYLnXaCe45XAv3dzD0cMQk_qjrAof75Ywr-Ru00VW63o4SUpB64Mw9Gk7LAEazLx6VZzUgISdahAwBFVEmvoUU8IzGnuAJbiLttowMV9l7fDtrdv0aSvPUc7v2h5Be4Godp3uQGsEnSKofiIU3bbfxmBgGFLoyFcNs-YtFIVnyiHFqCkAYwnOMIQF23XW7-TOKL4x6jQ_0jg7w9lVnDDVOcvhJIa33MBM-WYPUTduX6yi7RsYeoZBdBOEsrErsUnXhhp999ugxh7yE2Ksgi3nfRkeoOq7WP7PDWjuOrUS7zCUgSskg7WPsM6eMh2W-9i_4rfmUXD9ebS3lnSD2DK8068Ujdar0SYUHkuS2bIi-RKAiAXEFw5YYXHWc9CtWtQqm-sISWERlRfKpMFtwk6Js_kKeDQxxDxwyd0XwnhmYbzqWXw==",
-   "price": 11700.0,
-   "rocket": true
-  },
-  {
-   "id": "cp-9054750648",
-   "kind": "coupang",
-   "title": "에듀웨이 2026 기분파 네일미용사필기 네일필기 시험",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9054750648&itemId=26578815587&vendorItemId=5123008238&traceid=V0-153-5a00c832aeaa76d4&requestid=20261123212700352122732020&token=31850C%7CGM&pt=0&slot=4",
-   "image": "https://ads-partners.coupang.com/image1/D29c1UxadY7AX4KJD7q-shTFPvYuoc3RxNH2pbjfOkbMNEQZneE2R3c4vlu7uVj9H1w0eur6AYHd6MUbvojQNCmB-V5RqxrVDDRbYyTkKVBIRMWub50NBqkcGVQZIhIP8T8LX6hvXW_ndiPqfXlg9t54dPpqgvz_ZSqKHIGRSHIR5g4ebiJ7AOeHRalhq6vgUNJJGfS6tN0xDq9X6GEFCPKqllm8sBM1ChEDvpiL2aFIAVICLew15Yo89-YpEtF1rhoEiY7Qkh-MQQHozXRsFcjGMHYxDZJwJI5rqTOdFYfcEk8tYrq5O1FdnthHnvwTgC1ekc9-4IA0R1KdQM7qPC-mYl1FzNRdGNo2vzv81FCHFqAWKLnSGBZEWjCp5eu7inMfV9ZmLhoZsVmxz5p1cafFnvtGZS3zG96Da4Tzkrcq4Ro7bRzMAiFCmeY8J_-oUX5erBviiNb9G0LweMPRi2bkmkRlQhAXw8eKy6sn2fpPPr3-HN2CscTQAf7U7GVhEe3aIUVRoARkxPLqoWUmtvO21_rcc-ZxJyPB0lNcwvXyvSlDOdCxA9wPHLuUhswfdBMqlk0B-v_r1dmDL6CUMIS--kiiA9K4WSDkkEYopEdTp1w=",
-   "price": 20700.0,
+   "title": "박문각 2026 네일 미용사 필기 8개년 기출문제집(최빈출문제 60) + 유튜브 무료특강 + CBT 모의고사 + 큰글씨요약, 박문각",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9669234484&itemId=28909622147&vendorItemId=94969327334&traceid=V0-153-988e05dca4d0ccac&clickBeacon=df415360-e7a0-11f1-844f-a4aca396a513%7E3&requestid=20261124094915102313476583&token=31850C%7CMIXED&pt=1&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/QYyPtIfdhs5m8LIFQbUYa0mlZ0pj3X_ROXQ8PjTdIdJF8MZ3pFPdAL0aPaVtVeI2xHeuy0eFsAKPy6LZpJTS8-PZfuI105q6NmtQ10BQY3R4eSCJQ5KJBwO71gBMX2smAev84sBznM9HbMGjT9z0BJLVLbRQd3oyaYrZ33a5oDaYQPRcX3iwxFP6xkvBzMnL0mjcRQxj8XrO5bbQWe42EWfSoIQoKoKTDrE5_HTRxKWe83jz5fIQEe_4VlSccU3I-Xzm4TTE0DnBMoO20TENFiSPb7oVuKIgVf003N7UeIr3YDPZzB_IoUb3voGT4oV55qk2b7xn5yaGVd8SXq3bvMXdiOI7y-8BTyfPjCGCEmMtkD2uhg-Debbf7WIuL46YINhNv-TOCV9hdPxfDyrMi4Aij6oGmBP3J3ppWJ7zhhTlik0qn3Zne9g_S7asRvA7fqnuR-beLW13kZzppkLGwPQnlG_f9Bg04lsn2UMT2mJpYcntXGFFfMU2xvOVyAhtyVWmz5uIDtayaOjeSGW7zJUqhYw6gCVMYgf1aH3MXw==",
+   "price": 13500,
    "rocket": false
   },
   {
    "id": "cp-9103791650",
    "kind": "coupang",
-   "title": "2026 네일미용사(네일아트) 필기 1주끝장 기출복원모의고사 19회분+무료특강:최신 기출복원문제 수록",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9103791650&itemId=26764405479&vendorItemId=93831208146&traceid=V0-153-80d1ad6dde71ae15&requestid=20261123212700352122732020&token=31850C%7CGM&pt=0&slot=5",
-   "image": "https://ads-partners.coupang.com/image1/gziFPdogX8AyxGc6g_DjTwiWypIJah38YbpejZkNuh-kLCWmeRRUDFuNiG5SCGS2vaaDHPEiyVo4pch_LAus_D5D4dvpqrJduC-nHVKWpMxw9YYZpQNZYd_Qgv6dhf-H0MOXT3zU6a3GNeTqrT34mzrBLk3LOvzKaDRilxSLows17phhZi7-Zu_JJ1H-0nQrCQ7ysOo3xp3ZKN_Roypm6lzBTygZcm2xzW0Y0m9EZc0J0z4WKjVmNqHktRNofPeHyEI2l_T-OyDPhT1yDdI1g7s8iWqG7aUsLDqYNuu8h1cspl0oujrfOEeW5HeNe_oUpiN5KGqGXqVaGRUeUHvCgDky9_EQXOr_rzbdymwA6tVgoSfTnWCfxF5G1mnRpBOpAfUvYgJ6Z9OVuKqKD3jp8IBBGGmfCjv2RqsgemKjXk8x8xavv6yavIrnc_PRkj0Ayo52DOaDiLMImawosR4uJlE_kNN0884pBq3TA961tK3pXzMG-lM2VxezEWwcKhEEEm4CfCVAcDDw4PuqXYDA5gZ0hjQ0_z6TlBfMDkRJgTgkIBSiSq468h3hBR582WFj6TFfyVSV8wnxb8qWd4hJJNta_Q==",
-   "price": 20700.0,
+   "title": "2026 네일미용사(네일아트) 필기 1주끝장 기출복원모의고사 19회분+무료특강:최신 기출복원문제 수록, 에듀윌",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9103791650&itemId=29140664779&vendorItemId=5526033186&traceid=V0-153-80d1ad6dde71ae15&clickBeacon=df415360-e7a0-11f1-8782-9983808a7d13%7E3&requestid=20261124094915102313476583&token=31850C%7CMIXED&pt=1&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/JHYu9Z-dZtAH29XcJPN94eA09pfq1P170w_Yk9DKcXiuSFk5VgCQ8f5RyUMIBn-4oVCHjBBnjHg9pL9_u4r5wgucA2FA51MR2P8rBRrUvFqDz5IGTfjW9Jw2_FvJARmPYcCNPUJBjWjaEMAy1HEPvSIFWqRZgtP3Bzxm95vzqh8hGsi-vUhmtCUXCh51rzRYUfpd2drL0eiH9H1_0hYiDVHoGmrTP5iZXdYHU67nlSOZnFGjHxJX82czJfJKAW1mfftdodZaKHmy4Q3ISxr6v9T0VeUZ-ZZNAfQ67zs2dT4incRhQtOcnwj4bUuDBc94vPyXcyIaZzQnWi_ue-CcB34YDOinMbX8AbDIvVf_WDK6EmQ_aZdS6Q3-L0IMIQcZt_EZVskBirdHrmBnt_GHlP0p2z-DepYYgEJuvvYNMKVMuOUrvBZlJLXUXUpHPqDTc4uJDb2KGMUuOt_52j4NOHSwmmsx93r4caN218lbXRggmpSEwjkXYxZclO7Z5XgB9bBuPXwgUEilf9ZMmGvMuT8MyeG___8x_frCkGF4",
+   "price": 20700,
+   "rocket": false
+  },
+  {
+   "id": "cp-9795410101",
+   "kind": "coupang",
+   "title": "에듀웨이 기분파 네일미용사 필기 : 네일아트 2027",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9795410101&itemId=29329430588&vendorItemId=96243619744&traceid=V0-153-4b9d7c8bdafcfc0c&requestid=20261124094915102313476583&token=31850C%7CMIXED&pt=0&slot=4",
+   "image": "https://ads-partners.coupang.com/image1/wtaXz7VCltNljnoUwkI9DA4_NFzzpljl72ZqXFvoaXZJalU0sCQY_9RKH-0zMsd3U1uyFyMH7sRejmuS2HNQ5JmdYFhwu6ZS-oxWsi2JtLMlF_RQZHmTkvcvzAHdRkBn2K2EsTBRt52-T31pnXz-ZajBSJy-ZZwrnB81Y0dBt648S3laq0KbQrdgVAtX32vM4ZQ0IApSTYElRIpnyIgpljj0V3i7tUP5iILVX0ToxviC44gkV93rlgzBlNLitPpIV2TZRsjVJ0Ejck_kqP3ZALTXznYj-6gMZFYsjseZYy8n1sGzU5GY-bTPK019nDIipNR12iTwnMgSYFJAnQInPRLZr1aAvCvjft97rlbupnLB9Ci0x5PHUUcSVQngdj_VbmJPbL8G-O82VqP9Bq1lv6e1eo-7q4V2NthtB_tGUwpUZ6OwapKU-lWn5a_kO_r6H8DAKIdPvPcbluI15tzdyYqL0dVWKN0CAVirxxUPHcbhYwIp93x3RxwMLkVLA58reuXaHUqb0oBd5d67pMA9vCuNXAXxg04lDD4GKOBvPRWXddWkAmd228c=",
+   "price": 20700,
    "rocket": true
   },
   {
-   "id": "cp-9767136079",
+   "id": "cp-9046656183",
    "kind": "coupang",
-   "title": "2027 네일미용사 필기 적중모의고사(상시시험 대비)",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9767136079&itemId=29233677704&vendorItemId=96182735184&traceid=V0-153-70bee4493bc9d84f&requestid=20261123212700352122732020&token=31850C%7CGM&pt=0&slot=6",
-   "image": "https://ads-partners.coupang.com/image1/gKmIWHPdXquBaMxdgH46Fc7hBjX48puWznkoEf2Bvjgypkq6WwuEhVlzVnGBpx-ceatIcCNIJPYzdyhcdIxjl53y-vluRB7AsqZz88GtG1YnK7VV5BKhiio3duqQoOMjX38oj4uYY_kvUfhOqB6QP_YhT8h4KIr9RwqpkFaPJRQpE8M2fjtw4wvbvcWWb9FLmWGdYLAxjv3CXhYLJzeUj3rGlKJ5sbeQr30-7TAJOODp99QPEZDND8GhN4g1wfJ8IhaxzWLArgeqpfrn3d0A0AfiLIOl_ZI2RPZaIX-CTSTG5AQToSkh3g3PG4bmr-BeDmG3c3DEkAKfKsglCCtohPVZYE2v4H6D1ilAXxg1kzK-_KtDX3vNmJRS6Jpu7B1WCX3F782f6hv-vrDR2O4-eizyEY_d8a89U8or11O9gYYa8cAauBnIc2NbbxuoDEgDp6zgymAEbM8GplSsz6zYliCYdYwQxfeXNYFfM-V1oWmA6jfiUivphja4qu4Hu50zBkgu8kdDOeYhBa2xf4uaWpWYIewr9PzHj5La2foyG5abLGT6-iMFDUz9T21KiO7_W7YgRz6udhEutW2KDkizZ5o3",
-   "price": 14400,
+   "title": "2026 기분파 네일미용사 필기 (네일아트 필기)",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9046656183&itemId=26550799059&vendorItemId=93607815608&traceid=V0-153-8ba533e96a5bb2cb&requestid=20261124094915102313476583&token=31850C%7CMIXED&pt=0&slot=5",
+   "image": "https://ads-partners.coupang.com/image1/S9b1I_sxZyILdOYESx_FSla07bdgk2Ud5bDaJ289Lq2d2ol6KLkh_OcjTiAysXg31l1W-ZI_eh7SR2BQOeWGoiciH02TwXiKrP3tUFGAixWw20Q_bxlyMIn0v3ZAKlv7UZvv3c_je2zoJxVLOjezqaVpSk1o3TmfTdXAcTUe8arP-I4GRywsProAfDNw3ZPtJ0kZuMh91sp5zQAQ33cY0g8v7uuwENcWI3HgpdXZsBOuiIzIGgJDp9lAjbxRSEombiJyJB7c5Y-GWweg-c_mRUlirDJE-B5JZuW1QvdVju5wXQQa0daMv6onc55_yKJjmC15No7MXnVoaEfuFuTeMT-AD1WLbB04CsgfOqP4C0lJ7Kn6i_wniHjqlUEV-QRv7NB_xA0ptIFRc9BhA521v9tjS65vDKr4gFtnuI6T8402q1R9QaTBdZ7051LxqkUwkXiD07uyUbXLOqylWdh8_qkUUa3cLUUIOdSWqvJfi6Duj8j_jUVHjAJZgqvVlRGi1pvjgze9ouiO_GRWSzBGaaIvAdpZGUlTHxRs",
+   "price": 20700,
+   "rocket": true
+  },
+  {
+   "id": "cp-9187430009",
+   "kind": "coupang",
+   "title": "2026 2주완성 미용사 네일 필기시험문제",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=nailapp&pageKey=9187430009&itemId=27104794077&vendorItemId=94106604381&traceid=V0-153-66a52d9afcf632f0&requestid=20261124094915102313476583&token=31850C%7CMIXED&pt=0&slot=6",
+   "image": "https://ads-partners.coupang.com/image1/zDm1g_oO4B0GjZvgzLFYbVl4wJz4j1LxcZNNX4xQ87qY3eV6YKunpZERC22glbbDe75EFW1m7W95AxDFCkWxRBA8V7Ijervq7g4GyJ5O6X8pmt7JKbS81Zyazmxm-_DEe8lPqa5kFO3Lyw2-s7X478OlLECQSEDy6SM3f2DoDzdPMwY_xCz_5E1jmKtJA-6yUAZVA5yapTmJIRrEbGXYqRUdnM7uNmFgI6mB8xLG0-1B8P_RyEzPI9xD_7x7uIGvaf2FzSFHg2bi-gwLGCAcBC90me1q-KSOGJMBLps59EGvKKVqAofm71Rl9Lj2Y7eQXMlxrOqgy1G3XLksVlqXJ8CMLReEVoEvgJ1ge3RQa465E0d9619KdSUplAtoK_cJFDcB73KRfczyAzBIBFakEpy0WLcOldDGmNNte7H14S3FIsRjQqRY0XBPYmO2zSuc9JuZs2aLrx0IdVa0zpzijtEAvjgMhRCu_0vFJFeQkG3K-rBg6kWn1Xz2AJ4cuGEDeYhvfLpS2nTPODZaQz4Y6zYEUbFyQ1d_tg==",
+   "price": 11700,
    "rocket": true
   }
  ],
