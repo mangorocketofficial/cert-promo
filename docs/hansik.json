@@ -1,0 +1,16 @@
+{
+ "version": 1,
+ "generated": "2026-11-25T01:38:31+00:00",
+ "coupang_updated": null,
+ "coupang": [],
+ "house": [
+  {
+   "id": "jmkcontents",
+   "title": "자격증 학습자료 무료로 받기",
+   "subtitle": "jmkcontents.com",
+   "url": "https://jmkcontents.com",
+   "image": "",
+   "kind": "house"
+  }
+ ]
+}
