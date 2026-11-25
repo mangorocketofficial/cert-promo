@@ -11,7 +11,8 @@
     "safety_eng": { "sub_id": "safetyengapp", "keywords": ["산업안전기사 필기"] },
     "safety_ind": { "sub_id": "safetyindapp", "keywords": ["산업안전산업기사 필기"] },
     "comp1":      { "sub_id": "comp1app",     "keywords": ["컴퓨터활용능력 1급 필기"] },
-    "comp2":      { "sub_id": "comp2app",     "keywords": ["컴퓨터활용능력 2급 필기"] }
+    "comp2":      { "sub_id": "comp2app",     "keywords": ["컴퓨터활용능력 2급 필기"] },
+    "hansik":     { "sub_id": "hansikapp",    "keywords": ["한식조리기능사 필기"] }
   },
   "house": [
     {
