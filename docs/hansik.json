@@ -1,8 +1,63 @@
 {
  "version": 1,
- "generated": "2026-11-25T01:38:31+00:00",
- "coupang_updated": null,
- "coupang": [],
+ "generated": "2026-11-25T04:09:18+00:00",
+ "coupang_updated": "2026-11-25T04:09:18+00:00",
+ "coupang": [
+  {
+   "id": "cp-8487035469",
+   "kind": "coupang",
+   "title": "2026 한식조리기능사 필기 싹쓸이 총정리문제집:기출복원 모의고사 17회분 기출문제 반복 생성 <AI듀봇>",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hansikapp&pageKey=8487035469&itemId=24562569677&vendorItemId=94253175808&traceid=V0-153-cf5e6ca841f2d25a&requestid=20261125130919132160239594&token=31850C%7CMIXED&pt=0&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/e7JKCWqKD2L78oH7ewlpXFSRnhnQZBuYhD_0Q3BxvB9-yhFYKeJcaBylB9EDFCtTyUsqfwAA-lqEAP4FLzXhWcsIlpjDLw0vC8nHAXo-Vfu2XWB6SY8LufygJgtpgDlAbkBYWfYeM6hzoacdPDV97-bmWIEYkXCQOjo_tA4s305hrEPsfO5jlkuuo26uSKtBr_OzZg7y8p1bXg_4VUfMuiJYkR2aIJOh1MRWzMuOB7EW7d5VEXHIY4JvtHAwtPoGpnj2mOCcz9YrtXtjZ4KF8HnkmKyG9DsP-et0o-WFWi1xZpx18yCFTnKX2HKS06z55wTsi2qLmOsoeqFJsj-aet8epe8Q05XWuZtH9p5p7PWot9AWD7PUbixO8sLR6OBf7KCkl8xvDqydQGGbu1A-FqPUaegFD9SyYpyIwr7n0iEBTrJayy8-gCuonbuoU9gm9QA5opws2vwsbKxean2Im6Emtfv9J5mMC5jeX3K-XnuYxuil9Z8fttPLijHMevOIOYk2_tXA1uwUFM1Ku9JeJ-pLuKONJrFhS9V1dg==",
+   "price": 15300,
+   "rocket": true
+  },
+  {
+   "id": "cp-9807557540",
+   "kind": "coupang",
+   "title": "크라운출판사 2027 한번에 끝내주기 한식조리기능사필기 책, 크라운출판사",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hansikapp&pageKey=9807557540&itemId=29370583888&vendorItemId=96282769140&traceid=V0-153-2d2707d5742870b0&clickBeacon=fca237e0-e885-11f1-887c-67e8517afb9c%7E3&requestid=20261125130919132160239594&token=31850C%7CMIXED&pt=1&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/4Ai2zVoomadrfBdz4PEZwRa4OwgV2k_C_bWnDJB7Qj2aU3d2mIwKBJjMae9X_-isTNcn6W4WxOHMdrFVQ5ei0gmoHgf7YJz34FW4hs7RzoaHnrKDZAtEC7bd7xqgCk6bnXr1euasywXURklHURNrK_7z_YGKYg79fWf6oC5oQrHe87s7yyPs-4iZq_7Bfi8jIExUpw35TsPTZQ9C2GWNgW0gQWSouep5yBCTdp-TE8S-UMeqbWRh6Ifh_dynhtR685BojkLoiFbAVbIx-oD4POrlqC52M3myU2ENjfX4UFYsXSLA9BFzaIKf4GExy1w86WPc0mB5kGslzSXBOVln4IxcidbKvvE2-nTacFGiuZqWLmUuELhHUziKZRbohZw1A4LW0pQQP9mDCuQq5LY47V63fhE2H7LPiHEL6qLqLyIi8dC_zbqBDNKZP6IjvPM5lVUq1Y1d4mqSwPm1oCeE9WPgkTfpYXwGNMxlgsCOsr4oYqZ_XK2NFvbX6FKEk-WO9HG4u6OxckWCjy-ihVFTJOyNV3VBiQtvWPUuo9lgUHk-",
+   "price": 13500,
+   "rocket": false
+  },
+  {
+   "id": "cp-9458997963",
+   "kind": "coupang",
+   "title": "[백산출판사]한식조리기능사 실기 및 고급한식 실전요리, 백산출판사",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hansikapp&pageKey=9458997963&itemId=28144932183&vendorItemId=95135413305&traceid=V0-153-0d800e81a1c1a96a&clickBeacon=fca237e0-e885-11f1-bd9d-b367f5918b91%7E3&requestid=20261125130919132160239594&token=31850C%7CMIXED&pt=1&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/gQ4nCBVmYYdCSPd7gRwz9hGLH11P7GrMEDY8FwzEX3ytdE7vZZaSMdn0V9jj3cIWRM7AXvzx1KW5Rg7ekiHWcJskbsewpf-RcyzBtBoqchxxUwVzGbIsbLrP1UNAh1O5InZFOTEdht6FAyy7w4kQ51m4WCD3O4wR3-V6aH4VFK1ye9wZCtaK_Ok0BeOnv5KU2ICG2T0fRELBDGCxJkj8vnvALVN_1BJQ3y5rr-bLSKVjiAM2rk155qaQlaPxeLpxdMk4rGFk78olaRvoIhveCcuNwuqAbggWXZVsZ3ES2bkV3R_yER9gtpi-qQMdFlK1BxKCQADJIwFmh_l86HVwm8216cp0Q3SaffLZKcdBMv2sAJ9OrbNtOKBp3vz2ln3DjkVOvwWIANYa7MBd2SJVCHe8DOpd_lrKfbBlV0g-SqI2rQO2keUzgTeJrfCtLdOwKdKxdhGqlgndKcyxQDjGVsMA6rJX7CH1qz1D702XJMrVXU2jHh07WdHGkpuMKsSVCZpt59O7NskW7JAEYYluVQbJCHIMrmcjrhClw2Urp370",
+   "price": 29000,
+   "rocket": false
+  },
+  {
+   "id": "cp-9681859491",
+   "kind": "coupang",
+   "title": "2027 한식조리기능사 필기 초단기 CBT 핵심이론 & 기출문제 저자직강 무료강의",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hansikapp&pageKey=9681859491&itemId=28951874710&vendorItemId=95893648533&traceid=V0-153-aa7fa6efa636f4c7&requestid=20261125130919132160239594&token=31850C%7CMIXED&pt=0&slot=4",
+   "image": "https://ads-partners.coupang.com/image1/HMFMx5YDaYRiLzAZHCGsfG1WnCjhk1wM-fxwdQXjZgRappr04QCED8BhViaytVsz6aeMpjW4gbFqORG24j-flaCuNxvqvpR82vHuFZ7pR3-moZEPVqlyb0sLAjerlVLtOnRvJ2-C9Epi0pY1R2DRJbDS1rAhy265Tu2WnPoPRIaHfI26I1BQp_nvDEtn8yRJ8pD_KKKvmDn5DqJCoXUvwE-I3mb1fmu7a4-6pdyTCSYu8vch7BGpdtsGslItPjxxhRCKAiUZj7Hc2Cs2f9yzqg24dcJMX-mha1wpJBAz_dchz-ZtX3hRBG0nTmt_PwT5Z1VV7i8fdMIpw05uqGrKBFoyYzBH1deOthf8ySXJQHD5TWoc2IT1lGMt8ktxvWeb9Fyt0GgH2RzRF466cOOiS2i1fJMUyHC1TitxgG4llTotWp1zWfPLPyzBuqb5ifhOsa-1NS-1GOG-4gkaGqU_OOkEt94zQPuShD2NMUWqWPjvuh7beblAZX7M_zutsCFD9MkYvwnOSNoEN0bJO_eFibET1Jt3uNd7pivw",
+   "price": 14850,
+   "rocket": true
+  },
+  {
+   "id": "cp-9803481962",
+   "kind": "coupang",
+   "title": "에듀윌 2027 무료특강 조리기능사필기 한권끝장 한식 양식 중식 일식",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hansikapp&pageKey=9803481962&itemId=29382860841&vendorItemId=91339170225&traceid=V0-153-a795797cbf1c235a&requestid=20261125130919132160239594&token=31850C%7CMIXED&pt=0&slot=5",
+   "image": "https://ads-partners.coupang.com/image1/MoJetS1JCUOqEQXcMkKNslKEgFSO5Yr547JrlGgHCRqXG2YaCJePKsKqimzTNduCvlLHlXclfixyBxJEZx5hKKlWFjgskjc1g09qokYhPPblGnnqa_PkoIGjE6dq--AtYUzamK8Xgby24hgjmhv5yodT6cuLljKO-kGel7C_oD2TNCPCM3aHYCSgEL3MM6UU3HhaUS2Gdzuv2fztFV8xdI4TGPo8Pd5RpCz91P2YgxI4QESNkDcuJ0frwuAm69aI-DsYLNoj_57-ie9EPPwP9RYHRISE7iDMFOt-xKAf39NAiSD59-y1TG34zJgNDfS9ElBrODKoV1CdGc9nY7dX6QzTujIiwn8xl2oMtMG7hHJzFDE5i-KnJcDjxJB_sjGVgcftg7FaakuLJekpT5Qa22wv0wupWvxFjgJo3o6RRsNS_4ojVTwRzLvyE1X5q5hpwzQEUuK0biVPB8eFqMmbotjDGDWOlz5PKIjOB1vWr9Fm1Ynp82XvVWkUjs_izcRu13QMemF88myy8acvYh5FRbs0aGqTpUl5zgK_9GYLbh0DJO_HQ1ajbaRz_VfW",
+   "price": 18900,
+   "rocket": false
+  },
+  {
+   "id": "cp-9806885166",
+   "kind": "coupang",
+   "title": "크라운출판사 2027 한번에 끝내주기 2주단기 한식조리기능사필기",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=hansikapp&pageKey=9806885166&itemId=29368418053&vendorItemId=94778153351&traceid=V0-153-738156b1a379d849&requestid=20261125130919132160239594&token=31850C%7CMIXED&pt=0&slot=6",
+   "image": "https://ads-partners.coupang.com/image1/hEo2qsdRbx3yrtWThNJwxMrjzCfNOtfRl4P4o0CQ-h0UEnVtPx3cUGKxq5tqQsD2oKusBA7HOTUnG8tEUvg9cRpNewq06QrFogNK4QsKNtcJPfVZy03TE969iJo3ftMQNmjGDjr3fU8R7FNra70JoDL41ydKjwyMjN8kaDeIcZ4oHUadFyUw6TyqVv2AdA1nmccCYDyt4KuD47TMZTs_urHvYvMxb32B3sNXlg27Jyh2a5DYvGINK4_T9oWXQT2lhTdbFtcuOZ8aj9AsBPT5oHFm__JEzNTMbqvb8A8OdmRGXcl9MDN_f8GpypxfKMvW8lXSAeGWTJVotEtL_tv1Ninbhd_Q0RFLSLEeccGzb2WPrdl2sD50tP8nuHbU7BdGnmZiBXb8iDYCRTP4cOmIyuS8jqOela3QU7lfKX1Lln_aAFfEPjGvidSEVcyQ2PiCtxBVbzifVue1KnI2Xi1BVjdG46uevVBfaEHZll3LMBI-HNbdstwy-_wFvRNJewsAtG4jWc4p2M8ELe4eIXGRM6R5RzVk45iPyEr0XBb1GrwXF8ciGxTGgOqXow==",
+   "price": 13500,
+   "rocket": false
+  }
+ ],
  "house": [
   {
    "id": "jmkcontents",
