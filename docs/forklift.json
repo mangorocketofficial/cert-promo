@@ -1,14 +1,32 @@
 {
  "version": 1,
- "generated": "2026-11-26T15:08:36+00:00",
- "coupang_updated": "2026-11-26T15:08:36+00:00",
+ "generated": "2026-11-26T23:48:41+00:00",
+ "coupang_updated": "2026-11-26T23:48:41+00:00",
  "coupang": [
+  {
+   "id": "cp-9793248855",
+   "kind": "coupang",
+   "title": "골든벨 2027 무료특강 패스 지게차운전기능사 필기, 골든벨",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9793248855&itemId=29321701164&vendorItemId=96237958210&traceid=V0-153-ed86bb333dd22578&clickBeacon=ed888d30-e9f3-11f1-85c7-d3d31b43a78b%7E3&requestid=20261127084849575172784090&token=31850C%7CMIXED&pt=1&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/myoZffEbTUzzw49Tm-yy-_StSUpmX4cz3d-eWx0ro72X-cWiBc6YgY267C8505dd85rMdMnqBb7IiLSF-JSFeaFnKiVZAcvrGzZrlUZi7TuzKt0Qcx1MuYeGJOk11-_jJmkaFpDFqK3hKuWUTjptyunrkR--a-_eWSlf28ytFsIIKsBAM5-lbza7jpyP3sf7tMC-PkURG4AJdQa4udlg66eBnz7NUD2eNXfSCXdGhGjw1lrn2PqvFW1Z32NRk2xHFrDXQQW6ke3CqYyBwzt7x_sfov_bBwMeeitoh5_wbvgJwf_DuwmLGpInB3FxwbiLVRufYHU8U9i3sHzYo7eWm7Agm2IwGRgZ05TRWO-ZtCxNOudswSZxWGQX9pPlZ2kmXYzSOfK9UZxWxzMyNTkTMcz-qiooXo4HUFsv_ZVMK5Uw_8ypjvOLq2iMdoiVoOkrhHlkb9LbCQm2wEvVGFwXR1Vzq8c5_bqADXXKrZYc1hNPo80l-ivMuhVSlExlf6PXI8GoXunVILgc9VwsdzmwyzvMS7r-IgVj7E0wmDDPiSKBHA==",
+   "price": 13500,
+   "rocket": false
+  },
+  {
+   "id": "cp-9641841818",
+   "kind": "coupang",
+   "title": "골든벨 2027 무료특강 확 바뀐 지게차운전기능사 필기 지게차기능사",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9641841818&itemId=28810543340&vendorItemId=93215703478&traceid=V0-153-d22e098df0a4e315&clickBeacon=ed888d30-e9f3-11f1-88eb-789f45692860%7E3&requestid=20261127084849575172784090&token=31850C%7CMIXED&pt=1&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/GVKhJaxnt8vgmXHTGazPGfIJ3cyNe07acvGcFJss6h01B3zfHXk9qHnvQRD_jiPUON4SVthME4euYjFgz9DZ3degvYgIEU3Pfh7FSSAw-EtBztMxuw37Q3f0LfDKUC_7oC41F2vFUesg-c2cwpaQvDwRp7WFdtxx1IYjrHA47scCcQRCfOz-P9p3cfGPs3Z_d8kiKW8vlaEi65013BWnp5419m-GXJTyQ0jBOYOCkDfjinojuKEfmD016_Cxrc-oXKkIkB1pWEvw_jHXCHXVIniAsNy6kk3U4s0I3N9TLGM0cyjaOxIkVM4EJRu5AIdhuJgUzoo7rBVk3sEmhl6a1HEI9PhjohAksEj8BpHhzk3qEF05tvu0NUDHIbQpqvEkAyC1Iat2Qm5dXPtk_hfGGBTWC272bx684E4pmM6raqR-cfA-UR4Kg8bcGRjjKBejJ7dyDeeuSBIQxKywpefW0f-bkshOZwEjurHvChfHkHyF4lZgbX6vG9XbwBxvvCe2hKRi-nJRWF-SDzZFDsvwougm6BQsHHljdUJKe7dRT7ZTmp4=",
+   "price": 12600,
+   "rocket": false
+  },
   {
    "id": "cp-9541194324",
    "kind": "coupang",
    "title": "박문각 2027 지게차운전기능사 필기 기출문제집 + 유튜브 무료특강 + 모의고사 + 큰글씨요약",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9541194324&itemId=29116356537&vendorItemId=94172758900&traceid=V0-153-23a81a2e0de0856b&requestid=20261127000843594308352422&token=31850C%7CGM&pt=0&slot=1",
-   "image": "https://ads-partners.coupang.com/image1/1ouD-Xz6wbej8vfP1lvCiMYhwSSCE0nPRbVg5W714_d3LsUP-nSYEbMnhYz3UUaKNarSEOL8gSs4_rCDTOnp5W0o-BpWEwbO-GPdZZQJdDtL0w35MW2S7Cs9jU4n2vx5SviH9Cr-Tr9syf45zzRBxJ4pt3sfKRmMhIIoagzMankRoDgh1xTiozmnsbOX-CklmJgz-OHiH4b8xmUbp3jgoqzAhSAvxDYNqXxnppXlanW37WlSUujWZ75sd97jn49kOmp-Prjj_0dOGE3t0gOPm24GhEtQ3y1glE4VHHUSHVIRHHFMm7uwHq6ptNvkK_b2aBGioNfkeqOKKYycmEXpDgRFNxvHVNettNAilEP3-UcJfsqJMDryozBJPIew6e4OoK8mYH5UFaphwfe9kNzUfGzSLzFzSJXAPKPeRJU4pH2TNwkKbBDVpdRjqMxeN64dTkQyS3mBcOkmUt3MKrhYzy7g0ZXA7AfqN8KHtZP6lV-0yriiX_3MvtVbh_x2kpYP_Vf0dsJ0WDN_ipI91ZFYfbeVXL_WXNnMjVVwDsJdAACagdB3klKptDvcS-8=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9541194324&itemId=29116356537&vendorItemId=94172758900&traceid=V0-153-23a81a2e0de0856b&requestid=20261127084849575172784090&token=31850C%7CMIXED&pt=0&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/YC_wN7YRPFPoDDN_YBUL-C2XUaETIAOxoI5z_J_SqVPhFGwPOAEugqCJ8WnSL2X_JLEO0LBd1O2J9k5KoHjDpWQookn63UiLKgZAdUtMUgyvpst6X5t2DnI8swBBG7w48F92Pqd-q_s6okcwMjcS8EIfQKNFT5ftaxtJszXF3l3i7UYvaDckdiMog1mKxftVjN2lFynRaXWnYRCssSMKZQDNhSjO4t6S2mGdHdrXXFBzwR-L5GlDqHmVSveL_P7AfcmrHoZcfo8h6PjFdUDFuwhfcnfua7VfHWQVUXrUYWvU2_YGpkVwXUuTLl4al2YA_t8yLbpjJvRgnYZDKwEyshpngSbfl1rodZu6UlUvR94a78FC0PJla7kngdDI8zN_R2pcYJUuFKuLERJ8IOooUC0_zPD7bE1nEw84UjoBSX3Xrfwy9jQgVtKKhwNrr-DDyobqfk_bC2PUd2bAsYGIRpFqsHD8ZuyMtsi5j7EfoLmkRgYjtQBn-ieuPHhK-87JS1A6nBecQtJ65kLi_R-LU-l-MgXkMc9Mxkquv_atNBw7WwfIafsglFVMVnc5Vw==",
    "price": 10800.0,
    "rocket": true
   },
@@ -16,8 +34,8 @@
    "id": "cp-9754994695",
    "kind": "coupang",
    "title": "에듀윌 2027 지게차운전기능사 독학으로 필기끝장 + 무료특강 + 모의고사 + AI출제예상",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9754994695&itemId=29208007595&vendorItemId=70073993047&traceid=V0-153-99541e4eb11cecda&requestid=20261127000843594308352422&token=31850C%7CGM&pt=0&slot=2",
-   "image": "https://ads-partners.coupang.com/image1/6P2jzHVFd9RGmp1k6FEqaeenaWTkDFzLBWFnGdmYCaDv9V_G1b7eOWuRj-LTLyWl8Sz0BkdEm_7C8cBpNGKAO6gk54jgZIGZKHBK9INhIK_AYiD_nPXMioWZkWvjG5XJoBUrCzsufhovR7h9zPXr__k7a5ktmzKDeLOa8U6ih0SRY_hN0LNIyuIe6zExDcVZCG7my8vkmxNz_FWGsecSBcXzlgxt-NeHbJ26NArvdk1mSDD-NSjZjI3JYUpnhamFAXRm_PIOdOhwSGhtnMqqYGDK04xuaxihtb-sDqEoeeGGcWMwjvpZ1GA_8kDFB3C1sg7QUGDpOi6ql4jNWDCXbTGHV-CE0c8nwoe7f9FZIxV-rkLQFX40MWqUVzR-pwNeFUjx-670qqZYtl0BhEas7eSVFPOs9-HGSpgGUTwKzVOWoMDHC8nhpoW4BhXv_o3ooi2TzeCD7VbiPjlANV_GyXAJtjKue99UNATpRXfTBOV1A9Y463qBVxeajJusPsDhlXgGjQcRiOVzuZGZHlWBFRo0cs2GAEOFH6St3Eb1ODxEPDkPEbwcEWLXVQ==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9754994695&itemId=29208007595&vendorItemId=70073993047&traceid=V0-153-99541e4eb11cecda&requestid=20261127084849575172784090&token=31850C%7CMIXED&pt=0&slot=4",
+   "image": "https://ads-partners.coupang.com/image1/aSB1t6_5z9RM79okaYaJoYx3eN7xkL43EWy-mMom_egjsPBDTnEgIW02-T0ON3GIsLRIfLMTSISnEa1DyLMF1E3gQLI6cRw3wei-R-XuknjWSV7Pplh75RMf1q4pQjDrR-pQfwUSqyUJH_VVopS9tQT0wzZX1SRf_E9BgGoagZcC4KGD0jIV4POp9Q7DyZa3qb1Pk37l2TUNESttTnF874UNwMVE_BV7yX2CQTmUp-EJOpPr8SQ2h96WZXHhB5TUY5FGk62ppaeYFdc8wyJVO0_BuelN6SbD3lS9Yxs9G9yno19DyowzKrOJUGSIXl5iGSEXJXnOUCJxEsu5kXwug93JLv56j4yJgRWvVn4oSAr2wg0KyWKmWWITwqCEyHjsMgUie3eQo3594BP_dNvuUFlil-Q4vOA6lSWsQHMeQBWElRXNKO5VHfJQ_BCUIkvJHygqd454zcDQuE1W-KpwVQKRo9yf50w3jbcJRdErrfhWCydNS0wlavamBczWwPkovF8iqXRBEUDC4RGFiTWrsAnNm1fSk7iXxxAF4zM1mR6XA2jIiv36CNtuMfuZprA=",
    "price": 12600,
    "rocket": false
   },
@@ -25,8 +43,8 @@
    "id": "cp-9715667060",
    "kind": "coupang",
    "title": "2027 에듀윌 지게차운전기능사 독학으로 필기끝장 + 9개년 기출문제",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9715667060&itemId=29071858342&vendorItemId=95815966209&traceid=V0-153-79740294cb917ac5&requestid=20261127000843594308352422&token=31850C%7CGM&pt=0&slot=3",
-   "image": "https://ads-partners.coupang.com/image1/a_JweXjmUoVtAzFqa_ppu7rN9Sze2Hx-AwLFKG5_dfU0QZw9O_AGHC4soiRq5BNyAZlK6mQMg2QwKgy0qY7ilYXeOzd7HvVNI2XFQffvQN77wJ1r-jjKjAnmg6XH376IEufIGXXo4EcjvfoELV9fV8ORvqUDCc21ZFvhAa_u5XNv6a6fL8KDhMcucCvEyzun_L1EI1APxtuhKyaJy27LFfup7l04r7llwwtRKGjDQ3lzLVytywt3DLD99jl2KtxzUvAPdHmyK0Q64elSVB0BC0nhLbV614ju8MthXOR0PJdffpr3lTcw5sWdiUZvLVHMWm9flY-eUPY26ne2pK3maXREgQ1bbGLoySA_WofVFIvzmFld1IoAvEY_xxVvi8ydsQ7oZfmO8gizYFQXVCsFvcaOnokzOwmLoZWkVz0_LZnj06nULrqhQMQXyDcU_7-yKt6P48-Hv5IBR8u44qT8lNZQUjin8NMoVzIzMVV-jv9uYuXM7rSadMx1VapirgTwQz-qYLcDpUcMVdll8NPMMGHzgQFmxrUCYpE=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9715667060&itemId=29071858342&vendorItemId=95815966209&traceid=V0-153-79740294cb917ac5&requestid=20261127084849575172784090&token=31850C%7CMIXED&pt=0&slot=5",
+   "image": "https://ads-partners.coupang.com/image1/7uXo8Y8ukwDrcb7K7u3omaDN3Q_ft7vWR3lBRhRwqBbNj_WaY9LiTPpTNfuLwsKgHtRtuw01afA5E7dqeSAEO57lTuBlUIiqSQHvaWHiyCIYhIl7Bj9_D4xLrJCy2PIB1JbxSIy7sH1NayS0oG731iERUfX56DmwzoYnDGKzzxAU-VCMyG3JGNlKvAYUXwJx6e6HJK5jqfTg-VeZcb7CJ1UuwmygH1YrGFAS0d84aRoDBul2l5primx6986xrtCdXslsF9qUdRrDugQsOSVe70hRVQLbSRtSMbuqTobTehlYsT000nhTikDgiM-g3mq6YXC618sfvMFbT5r9MLKRJk7gqMQmMSVmVPanKK70sH3w0oN8AkwVmnVx2oda9aI1biFbLcJMel5-X4kLSJ23AlzpJ34IsSnx9I9sjWeMs7atCGEcYcXgpj_l4t1sxxG4SgR9_LwEO9x4a8R2zAZHZk6prWCmnCYsZGmh0hglTYBbZvxdJvlqvPL87dR1H7TQOmYr3TrzH6l9dH0tzWrKfWi8AoDxldm9XjIwokQ0",
    "price": 12600,
    "rocket": true
   },
@@ -34,28 +52,10 @@
    "id": "cp-9697361204",
    "kind": "coupang",
    "title": "에듀웨이 2027 무료특강 기분파 지게차운전기능사필기 시험",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9697361204&itemId=29006922378&vendorItemId=70050291740&traceid=V0-153-e56754f968f369f7&requestid=20261127000843594308352422&token=31850C%7CGM&pt=0&slot=4",
-   "image": "https://ads-partners.coupang.com/image1/IGyQt0JvAm2_xWEYICU6b1CWzw16Th4tege69f0hhi0nHF2zz-2HmyKXe2zEYJ17kQpActIPo2k-mzW_6xjWLKbChfazaKIP_RAu4Ei9fcXTBiOQKwGljRfW0aLUFCs3h2Z-BsaZtcXpAVk5fYmOlygbqGRg2_kbsHG6pmsT2k1Wpv6LNytN_TEkqwaps0Pv-8t0haCERpIOSyawTFGEZXYtfLzux0tuPkFz_uq3I0MFgx_U_EhHx8Jvv8807LG5AlLw4MNk6BWviNh-n8oPBzYGAxa3Te0211UhEJZoiY-GnrrKgBu5r_D6fRIVlgCpEJfXMfAcjm38RUrU7-WPnBRee8pIQZWgGHicLz3PiV6dYRJKw7VHuAz9M7VaOu76YqucQixwGyyEtrquejslsyPQrvoJDI8jcBl5xk_FF1h0hgYrEZDcmR_UVofE3m4BuYMZhDRpn6Vi1AZLqJsInbdS7CuQwYvKnkpys3GD5Vv1-VsCh7G3UjXVYBw4Uy4nsW71LuAuT8N5fzhhsCHC4J6iCQMzaDihEVzSe3CNAQNeR6oeRBg0uYfAD0s=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9697361204&itemId=29006922378&vendorItemId=70050291740&traceid=V0-153-e56754f968f369f7&requestid=20261127084849575172784090&token=31850C%7CMIXED&pt=0&slot=6",
+   "image": "https://ads-partners.coupang.com/image1/lmp_PTvSZeqRewOLlgIMiwKUl3V3m8UG9CrospWKqZMy5aWp6qoAKocWYauBl2cvB_XyBL4G5H5p2R8pNMH4FsuhCdkKdNe0C69SZlKG6IBYnqIJaiZMlfkbyxPNyRXrB3eZwYs7hrd1iCbzWbYlZnr-q07bdGWDRJN1nHclsPuhTyJlUtacRZ-8_stCcxnrQBPVhPLKD2kkRuhZP2U1lD25DDy1I81yB7EOTqvV4cUVZ6PLPYV3CRiYWVva08Z8_-EdwU_GL8oV1bWKpfp3G5xVAqLGiTxKwk3KRrvJ2FZEeKz2kkcNI3I_M8z6lhIIVHczBdrKkSefW41XgajWTOL2kfG83MAhNMvKzljotCse9nSwt-nAyfkuRrhsD6GiwYRYKWfkHuQd0LbSt6Egv92Ka6d4QmSejeIWQ_x6BID4-EcDoNL2uDg0MShR5UHsweAE1A4F_mwJ7imM4LzhUbLuaaFDc80TFCrhpVPwijuo8xpMbYLHEBxGOfJwO8gvhWm0Cs4mzjq5dubZqm0Mzx2eLtLdo4JgtBEktEifYZAUZRAMkwxR8vcGy9ZOGA==",
    "price": 12600,
    "rocket": false
-  },
-  {
-   "id": "cp-9828058705",
-   "kind": "coupang",
-   "title": "지게차운전기능사 필기 3일 완성 기출문제 2026 문제집 PDF 전자책 뚝딱작업실",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9828058705&itemId=29436892225&vendorItemId=96342788090&traceid=V0-153-126943a8c5fba765&requestid=20261127000843594308352422&token=31850C%7CGM&pt=0&slot=5",
-   "image": "https://ads-partners.coupang.com/image1/27yf0XCsyLppIUI02yx-vFmBN5w57DKLF_qhHQQp-BvAEEpApkSdXa3HPKsGkuhce2TKVfEFfI--WBZpgeyfv7aPapBCQPYgh-_vO1uxwpKVxwhj90PMbjCiXNWB3dtFygjpxRzt6s3EZ4kFITX06X-xey2vOir34f9MtMrOMqPsLsT44gwnuCpDixBYBp8pdL7xFnRU8IrGuEf4X-FqdR8ioF03INQhWPayRG5vH9P4up9xQnat71ysuVkqClzJUDPoVPqXldL_CSkDxJxzi1idfbuW587qDpS3XaVmkOysEdgqhCZLcTWeamp3e3meNRbmYi4yifvljN-TvmQjT-kxAXb98GuJRjxVIWrpuRL__vN6GVD6q7dyPLDkQe5mJNznSzfQnHSBqHz1VcOCGTBRFOnBrlvl0lPDJPOL4U3nZN_L96EDnKG0V1N4CL5KExEN_pziROy7xTZZoV6qQxg00ImSrXQTcRX4rvxCey9GlxUPDN82gjGEUlIDKp7E9uZAJFyxnF69GnzeArtMNw7GbPRhEHvlKeu70vpPrcakHvTGoF1ewp7TBg==",
-   "price": 7400.0,
-   "rocket": false
-  },
-  {
-   "id": "cp-9671393648",
-   "kind": "coupang",
-   "title": "2027 쩐 기능장의 3일끝! 지게차운전기능사 필기 이론 + 기출 100% 무료강의 개정판",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=forkliftapp&pageKey=9671393648&itemId=28916938564&vendorItemId=96195043638&traceid=V0-153-33ee28e808371d92&requestid=20261127000843594308352422&token=31850C%7CGM&pt=0&slot=6",
-   "image": "https://ads-partners.coupang.com/image1/HbuyyaQ8orYAcUbTHYdDICdUo6wr_CDb7J8_FH8irTWrVtpd8fu65fbSlw3tiS0NCNXvvx0GY5HoZk3sZaPHyrcCqq0ut3vglsdjwR5FiroMzBzwS91BaRiEQEoNRHTTMuV23Aja3UmFfOYGLJCSfxcgnfUir8DeGzakJHiW8ZJ3nn7DPb7GOuya97JisFrZr8ocX28Z7h9F43LoYnR4Y0wGPh52GBaVQQCfQ8UgqUR0I8u8C7ohu3rGNtHaGB3PAq7c98_mdX0AV8OexhbQehfeiCj2buSmpIDWpV7MJPuoA23FJcXaSPrrCgSjV-61gMrF5ND1ygNI16QnlyIMHu_FUTjjEhMAkFcnFTrq0jIsbzU76Zc8aqnuxvAhcB02NsvDgA1_kGRjBxYGZ3r9IpzXN9ENrTSqvbJbGujP7UxM41rPDopppHswdXl9xm1FpbPjexURUdUjTwP04JTS3QgkEHs3eiP2_2tMP5JK8oCU1rOW7NdoMecLx9vk0nv8mvBW-w1E7_R4N44GKSlpZOYypogaTK3pg8ohcA==",
-   "price": 12600,
-   "rocket": true
   }
  ],
  "house": [
