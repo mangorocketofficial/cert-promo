@@ -1,41 +1,23 @@
 {
  "version": 1,
- "generated": "2026-11-26T04:59:11+00:00",
- "coupang_updated": "2026-11-26T04:59:11+00:00",
+ "generated": "2026-11-26T15:08:36+00:00",
+ "coupang_updated": "2026-11-26T15:08:36+00:00",
  "coupang": [
-  {
-   "id": "cp-8884997187",
-   "kind": "coupang",
-   "title": "2026 컴퓨터활용능력 2급 필기 초단기끝장:요약노트+기출변형문제 25회분, 에듀윌",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=8884997187&itemId=29140670757&vendorItemId=93225266433&traceid=V0-153-08c32706746e0ac0&clickBeacon=212e55a0-e956-11f1-bc51-a9e7f95e4c6e%7E3&requestid=20261126135915786211360189&token=31850C%7CMIXED&pt=1&slot=1",
-   "image": "https://ads-partners.coupang.com/image1/G69w0YMAZlXQDVslG87LUWCfLHU9XNb7p0u9puTA82kr5-f_jI3CW3ChKtJURVZB7GSxFvkoRgDDrdqlcfPZWL-x7va4pfNOQ9wanS1duEQGJ2r-bmGnRk2uIGFcZjwfrUBxYviNBCT6-AUTztaJTKqFIP7HGVbvRDByYvHJ5JtpvsfmD1I4li7CZjnaJ_mVyjf4q8XQV6typFJbIm8dzP2wISS7rOFY0lwlT9obYZirUVqLzR5UaGi-Vxpvqsty-d-Mcv33WGUDnpXix7A548DrmD7oeBPnMzmihoQBYz7OiLm0i3KGh97l3q76Jw7ZmeAp0PCtfGz6wqK9awWV4Blr5ozGyTjjpHNQeSn-kBruaM1h_H8KBsY1ptQ7udmnGsE4BtqJjZSuP7A-8zjwAT3wJubRj6YqOTYSONUjHhdRLuubJjk_pfenIaKmMx6zm5jBjsUiQYe8RW34OfEbcpWFje3wf2dr17xcO379a3Rqx7BeVshvvYvfJTy25odqghSyDeK9-XtnytFtfOu2AtJreHyLw5zysT3xTQKe2fM=",
-   "price": 15300,
-   "rocket": true
-  },
-  {
-   "id": "cp-9787233711",
-   "kind": "coupang",
-   "title": "에듀윌 2027 컴퓨터활용능력 2급 필기 기본서 + 무료특강 + 모의고사 + 실시간질문답변",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=9787233711&itemId=29380610839&vendorItemId=96292357230&traceid=V0-153-50650ef0f230a5cc&requestid=20261126135915786211360189&token=31850C%7CMIXED&pt=0&slot=2",
-   "image": "https://ads-partners.coupang.com/image1/aRoC_YeX7BXqr8BGacaVZLJQf4DO0NgehzXv1zkxO1uU2G7Hv1zp2JUhVYfJiC7M9GsAptqTw4lFkvIFvlKXMCo2vEkweBop0PTP12_fDtWsrELHKQ9mONB7L49Mg7piGNKa9cU_U5_EitJNXbtCAFFAk_Eo-LQ4EfXHpAvl9Oixuptc12evqDKgoPbfDD9YfLkpBcpmydCWLo76lDsYk8RpUzcvbvgAUeyTbhfIJ-CGVymSXU_0JCOY-ESjMGZaqk8Xzg6Ab9seq5rOVUkpbfAskB2lxl8D4cCwRPmYZdX1mpeIejmev63q-gPZlrUqiC4r_ZKmITBLudVKrgAwOWpWr-JRBrTGDXOGOwYi-pksRXKB4TkdQ6UwlqdAOUHDM4-vBgtpitzc5yV47ATkc9ZBLdKQqCsDOhUba-uG-Y2wzmf7nqyPwl1th5TjuQDMaRush_UgOACQoLMzPNrXtLv2NgY2bLNAWKs45-trHHpzr2jWQB1JiL29qN5JAVQYajlqGlrjZXkflrhTtrXjAHDg5AFmNneeB79MGE_srFoxfz-CetswZrE69w==",
-   "price": 19800,
-   "rocket": true
-  },
   {
    "id": "cp-9103413277",
    "kind": "coupang",
    "title": "길벗 2026 한 권으로 끝내는 시나공 컴활 2급 필기+실기",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=9103413277&itemId=26762477597&vendorItemId=93782301371&traceid=V0-153-77905d4678532a19&requestid=20261126135915786211360189&token=31850C%7CMIXED&pt=0&slot=3",
-   "image": "https://ads-partners.coupang.com/image1/djvH9HXu-3B-udqUdkP5e-V37eU9CSyHvvM-KK83zGH_d86XpR6Iwl0mVwuVJJiNoziIJkvlTHrdDsRFPlBlbvLWj-N7btg3_ZQkD1q7ZO077JChrj0DvtzyrfJYrlPlWG7YO9AklDxx5E18bbGJc0s1RCt4ejiL0P03A5IX39XWG14EsIKLOP-6NktEIu8ubVnjkpuiz3GyPR0bxt53vxTFEc8MPbqLV7JjresVDEqbWMRvQ1GstAM8xftdRXyQvyjI49vczHTXVztFfYor4lpZxEagVRE05fHgnc_GeL4xNYyK8s8mz9LYx8MlmdlZsYRiHPsH7JNf86lNvbcj3-dfRj-4wrCgpOsOywFo6lrZMmu0cY3d4I30WVVYxg8kVasXWIeCOdAgTgioa9jo6MozZOB6NU0WjFFov4zYRCaOkWb0PACCPdk0bF_krAeDN-BqBDtu5AhBe5x17QKYOIaBSEXdOVW_JUmzrgiIR5c43nLCQ4N7Oe0QolHhNx7TdSg1yn1Yl5TuoiozYbze71Nse5KZwLR9NZjvEkcuYk0RHL8z6VwTB8Vu",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=9103413277&itemId=26762477597&vendorItemId=93782301371&traceid=V0-153-77905d4678532a19&requestid=20261127000840734301135914&token=31850C%7CGM&pt=0&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/N53F-V_ymaOOG0DEN2QPuzR2vaWMmtIwv3EE4KUxIAIb-Qf-h8n_sXfjiGI2XgZCAgG2sWxX9ye1uGLh3w7Py7_5A72Eb0bwOqDjMqbsufAG9bkyUNfV2AGL_FZIIqjZkINMUX0zm0_cI8V1bDD0XocivcNY-Tjy5hBUQ14BH9kiYWVKAW0cwR6cvGBnv5DA5jjZhL9hfONchKplR4ADHxCYSKMyClTixJtk2GAhDhqvGfyfaai6rTmo3ahi4VeifjH3SNu9NTvdCgkRH52c-KSRSu6JZ9PZeYCAgAfoTScWRc5u9jY6CWpUUnSjLyOB6Y6gNR_-uaekUP07t-7d5ASgnKLmHf7M_tLg6K3sDLbFKQLPuoh3Q6arZMhw5vlPOtF7-9BpfDUvklA2WB-qvhBcB1Cfkf3ewMxs1kxqGYrk9rJmWbmo4Wh-vs9TL583zGt7euP4KYFRM6XZVA4i0VqGKcQbBuESZW3RMvvkk2cNvjfh3AHThsl_aK9ZyqW-B4kv-AJlxBEQlq-aPFxw_qtplSTA2DVtpEgoXE7s6LV1dXu3dae8",
    "price": 23400,
    "rocket": false
   },
   {
-   "id": "cp-9797772429",
+   "id": "cp-8884997187",
    "kind": "coupang",
-   "title": "2027 이기적 7일 패스 컴퓨터활용능력 2급 필기 최신문제집",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=9797772429&itemId=29337673430&vendorItemId=96253108780&traceid=V0-153-8475f1b3e703ef33&requestid=20261126135915786211360189&token=31850C%7CMIXED&pt=0&slot=4",
-   "image": "https://ads-partners.coupang.com/image1/Dzo0ggOKhgpzEkzJD-3ooOnDy12DjkQlCmquQOZXZfqyeRhNw4wnSFpal9vwhAVahCAveKFnUTDoNx7POpuR0sBYA3c-J8MrQLnKuxX_m2feAqZ6OHbrwnaSSWBqYZ-XqR2h-l2URqQDcbd4YYjJI56O3zmGGP5YKFjusKrksPhTHBJKsNd_Deh5KqujWRvpy927DmR6dMFjlvR-eKCKQmxytNAtnJTKe0sQ6boVuTxRSakzDhgwmfjaxzTLqs8gb6Qx9DjDJvgMbGFANWCqQdoksIplbdkEZJhP6_qFaDd1CbZ5_a9ufBM5b3Bs1jcvXnosA2qCupcagstqJy90rxUA9ZFFH4tjM5-OZz4-WhLr9pGkherw-fHvWK3TfksoCvnJnDbys2hn9q6GnYSy_y8YjFlNS_xet9BuyAmeNKQqD7Ui5OTj8S6a7mNHzKoi4Js0JpOOdXkktrhl8I4Wuam3ePb60_wKJprQpIpzKakVl1vE8M-jZOoRpu6wi_spjp5EqGQVeM6wmLNgnkBuLvqsjuBaq8tQQA5A-Q==",
+   "title": "에듀윌 EXIT 컴퓨터활용능력 2급 필기 초단기끝장 + 무료특강 + 시험 출제 엑셀 기능 모음집",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=8884997187&itemId=29140670757&vendorItemId=93225266433&traceid=V0-153-08c32706746e0ac0&requestid=20261127000840734301135914&token=31850C%7CGM&pt=0&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/gHxwAi43JlCdCNiAgLx77tdwSSK_Ua7-g1PXkeXs0iFcSkZ5YuiFhsVLKijSCXH8rjemAnKkyM-WYDEp9qhKpXUFQ2wAez7-ga3wishPP5TMel2z-s7d32au0Ht2Ntf48o91MKWMXjxHSVidCpJWlLRzJAPZtkd0NfNXBoJjHTZCnQg-ObBZFy28ypsn2KSEshKjw-myegcKufFj23lO7wv5LiYMPMtF3iIdZa5rhH9ylUxAn3o2h_4am50xs41ixzC9Lcs596MrircBthCl_VA_DPj_0zjnsxnl07JoYcqCmFSZEJ_02v1A_ORAscvtvOkTxtDQQLBB3oV6uiycwkz0GttwaLsnORcreNQlc9Gd7PbQqvaVwkp8Ia0eZze21AkDi6AJTGFuOgViWBExMFaoaY3XAgZNPMqjNsUzK13nqI4woO4fDTWSltjrxV369p_vK1cO1kJQrebqV1AI9SOpMPmv2S4s6f5YFuL6L5BE6qiPQpnaC96c-8k6FB9E8VrDkg_tT-GMUflaAlDOxt7cZId17zNTMk8e-XEe2b6atSGon7tbyA==",
    "price": 15300,
    "rocket": true
   },
@@ -43,19 +25,37 @@
    "id": "cp-9183955734",
    "kind": "coupang",
    "title": "2026 시나공 컴퓨터활용능력 2급 필기 기출문제집",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=9183955734&itemId=27088084762&vendorItemId=94054094633&traceid=V0-153-101ee082e56ec092&requestid=20261126135915786211360189&token=31850C%7CMIXED&pt=0&slot=5",
-   "image": "https://ads-partners.coupang.com/image1/Kg04e0EZneO7iqA9KpxA6bGK2MeqCvzhGZf3ermWKcAWbN7JfIwwHdYJGtduqYgRUicGDm_e7BS-RRGEJrebTFUgnex61IlYwtWQNH9kN9qG6OBn8Vm2zswM31ZOV9d3sfi4-pLMHGaSEb7-WV5GK1d79okpN6oObP1nUuADQ2VNxLzQvnWyQfk4tOGB-ELGuIduNyCQBbuTTV30s4Ek5vpFduuSmhB7br_owkRjA3zxyoBR28GGcvyLpB5FO4ur1kJyUuB8aZPJEC3nM3t75uGJwto1puUOlSwiQad5Cd1MrJr4dQogeHzjlu8WrNO94YLDAxeJvttElrWlRP0ClpNI4nFLZ059HnaS3yCFezwYEgZ4G4itL-Br7EAAamxP_bqjq1Gi52DsjE9juGLxSEewI3Gk2CR57SS8P8U-v8wb6vVbX2bCTYTzxiMnXGoR5AZOm1ngeuk1eT4CHlIB9dOnuzJHrRkLF1YTReO4V6hyfwR6BARQAdZDjSiSKs1kuHQ4FdXfw8uAwC0uk774syDl-REHhRDN6-EY",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=9183955734&itemId=27088084762&vendorItemId=94054094633&traceid=V0-153-101ee082e56ec092&requestid=20261127000840734301135914&token=31850C%7CGM&pt=0&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/7Y__8HGSwE7fN4j47UjPtgJko6nAp48f363xJyGUqpDtwKy24VMZmfy__owmBx9FkWPr4bmPDXgN6n7ap49wtzB0F7m6S9lsb_M4G0LPx5pJOnh88LJWPiwmnq5wGcI0lO9A5EiysyCk2uZhmcHRMvuyfATez2lz_sfHZ7WlLCf1UzTCIajTEQPLKKItrrAtiLijgNapKcoUDmcLetDKHG1gbXIrJ7U8U6wAxNWhAGP3RJQRMm1Tnp1D7uUHZTMAiQhy_TBfAT68NPYo8_j7lZBmPYQsMU9TeavibWviun8AzaOiA_-7_5sM8PEONwrIgUzYJd6E4ZvlO7S5nVY5I3cPfQNEkyV-DSm0zz6s3EL6kP25DQ40BJaS_FmB99qJOki62Y8gf3SbF0CLtqvi_mTMpunr2zH8x7b2kxLb5wBJj7706QFdf1jgKorYWnK_suw3lMct0As_uiEq5qli3u02CZVPA3FLPIuXAV7CjZPuP7N7R_azd_rCukR_15lhaWh1X113RnP0vj4diH9g6F_83bD3m0c=",
    "price": 11700,
    "rocket": true
   },
   {
-   "id": "cp-9818628112",
+   "id": "cp-9749196659",
    "kind": "coupang",
-   "title": "2027 이기적 컴활 2급 필기 교재 기출공략집+합격자료집pdf",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=9818628112&itemId=29406654142&vendorItemId=96359319193&traceid=V0-153-f325e1f125ecc835&requestid=20261126135915786211360189&token=31850C%7CMIXED&pt=0&slot=6",
-   "image": "https://ads-partners.coupang.com/image1/o7vawI0osSJaLKdgoxQLk3rMk3Ikg8s1YWfOtNaMwM1EXPAQzXfWLTMlEFHJFgjQXBjob2Tp-gm6KoPZexgS4M2Id5xdzZdvBm5LhESCPC2vS38xXX9_L6G1LgVVtyMkaEXkn-yMvqGaQH3Bykn0iFo-kOvZfYyqcGfVtd8juR_VfHe4NwJxgGubgtbGaoA0rlF_fjpgjxhNKLXrWzRqnAi0VXQS3oDXlFYnZPRxMTCVZrYkOo6xMaoep1aCQS-30Ozne8bEIc5D7jLxvC82FLj39bFP-tw2L8xZQfMEKrFheb3M6dSEQ_UJ1aVcgmMSsnqsg0Yk-lSVZu6UVCMbhDgbbkRxvQjrkUyKDfmhCS7HYZk_AKW_ChUqfXb17RPKgAdMe-ehSuFK5-qw_mpXogcAq60yfNwDCsCbQ_ObqcLAWupivtB6ZiyUZoqf1E1O-cJE_TN7t5bLmEHprwIYJJH4f4iD7hbZST95CkAVm_zTxkVfnih5YG6JtWIVXshNMGR_--A4D2XgLhdI6MdWgix68X-20N22XjFZhzp6XQc3jO_BaE7MDYF-",
-   "price": 18900,
-   "rocket": false
+   "title": "2027 한 권으로 끝내는 시나공 컴활 2급 필기 + 실기(컴퓨터활용능력2급)",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=9749196659&itemId=29191044378&vendorItemId=96111937063&traceid=V0-153-be24d60d60e3a171&requestid=20261127000840734301135914&token=31850C%7CGM&pt=0&slot=4",
+   "image": "https://ads-partners.coupang.com/image1/Hf-sGtzH3Tlv1Z-iHVQ979JZOMrfG9QXhF8tWHZ-bhempPT3LimWA6e76gr3MUC4L96v0QQySzSSjGjuLFfzdwvVVdDheOIov3r6f0tQyLTP_JCx8nie_ni5DJiFAgCPA0uUgAoJI8ln20QdrTlCDvRHw1FPIRtXmxBlbV2hAI6TLAc_ZmAoZeE7l7lwei32EMdU2kE9rAmObUJYFcts1t3ncPen1_SoEAnsaiAANegchXSXksifVKIuywiL894NHD9XeFYZl1-5bN4mly3iKTd_ol2tpUWVeCMehBqga7lkkXFt65zPzhy_TejaWSxDPPb4WdebMoB65lWIsmeOKyuaJoqdV7ZDuDL23To4OVGXjRcjYzgQKOtVvP1uRt4Y2juyubpwAcA7HaqTx1pE2ba3CF2y5nR5dx7bDLrqZGjAYW6NvoqzS6L1VZR8E7PxNAnhdskj0yzlvgFyOph9suqYFtJrSTLePwEB0QD0ETIIbv5Ublj_HR4iNbDfmybAtRs_UTB6MBSCHKll7wqa9Ob6avjduO4=",
+   "price": 23400,
+   "rocket": true
+  },
+  {
+   "id": "cp-9797772429",
+   "kind": "coupang",
+   "title": "2027 이기적 7일 패스 컴퓨터활용능력 2급 필기 최신문제집",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=9797772429&itemId=29337673430&vendorItemId=96253108780&traceid=V0-153-8475f1b3e703ef33&requestid=20261127000840734301135914&token=31850C%7CGM&pt=0&slot=5",
+   "image": "https://ads-partners.coupang.com/image1/wyJkYxN5vtMppKXaw5QTqSDQO1c0MIl_adidwps-7XqYc9ETlBrZK6an1VIe0YX6lGHY32rYH6KN-cqvbCSUhWm5ncwhEkEyQnvNMZEKmwq8QyQovexHQ0ngxdHnNtiMx6PSotyNDJNUKLj7B99g7pPksAhUF7qQSgDdaUchE5_zxWE6SlhSStvSFYG0yuPYHivY8Vof4n5c45E9k9cv-dy8xTniO5JM8IKwh9yxVrTEdkE5-3tJBenjngUf0Ze_yO_k_MbcrrI8D-lhDCqJ7sivfcskW5CsS1mxrbcaU4rSvjFTKdxQoQdij0CrlBLCtNcoh0SplZ_DKDVHk9znxRVmZeZAMVTh9HmP0Njte2YIyhUgKw3ZMI5-X1u0mwiAWeGq_ib4GU-uG5cHpwzX5vLTbbJYQDJfypuDlU4iDwXy7JWa5t2tdia0fiOvm_3XUmevAO19Szh2w64rJohvijFe7d5xK7ZO6PWuseqdMq8LMhz-G3NCudfoiqrXblykRZQTxmJnXw9jTFusqh2e8CMEaX8haefHKA==",
+   "price": 15300,
+   "rocket": true
+  },
+  {
+   "id": "cp-8817403091",
+   "kind": "coupang",
+   "title": "2026 시나공 컴퓨터활용능력 2급 필기 기본서",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=comp2app&pageKey=8817403091&itemId=25692085147&vendorItemId=92708092646&traceid=V0-153-ae41be5632ff9480&requestid=20261127000840734301135914&token=31850C%7CGM&pt=0&slot=6",
+   "image": "https://ads-partners.coupang.com/image1/Zyu3PJFRG5QItLVHZ9UnWuwjWwW1NAYaqSfaEdR9NPpZnPJVp5Vl3zEwe0ZoK-AMIqvsguct_7hN2v0x3DbIkVidMpNF4Wye6-o7C6RApK03fQQdyH22nSsCoVLOhRqMUkZpGcYe9cZVpVLzR-PfR4HlvPEnAvC-KzLg8F7QbanwvWg5dkSemrCq6AF_mIzRNes1y2ihsIe-A1oajNGw3-Nqslooj8fRdkPHZ1vZaNvptgEfvGnMue41Pt-8UjNOIJPP-sIr-_Vrr5VeyzVjkonB00xtjxnKrKLcITtN2JP031LeWuQP5ZGShcw6b60Qh9mpXKM4KGZGdQc7BkcUtL4lanZAVQc4ezgwZNC7xiKf0iRXREMsZlmbIwEY--OAcX3tPcyQauLFV5qFNMmpvxWatA9ncPM4juDAo-HLD5MVNl0jaBP_cZCpbd7K3jSkxqH53INpArmkZoohrCHyjmkKsBddgdzZKWNJKZiujRVYYbVWex_cZfHXgdPthR3Gn6tkgOE3jVO3WBxsYnWHvKrnqV9L8fM=",
+   "price": 19800,
+   "rocket": true
   }
  ],
  "house": [
