@@ -1,41 +1,50 @@
 {
  "version": 1,
- "generated": "2026-11-28T01:56:37+00:00",
- "coupang_updated": "2026-11-28T01:56:37+00:00",
+ "generated": "2026-11-28T10:19:50+00:00",
+ "coupang_updated": "2026-11-28T10:19:50+00:00",
  "coupang": [
   {
    "id": "cp-9660283876",
    "kind": "coupang",
    "title": "에듀윌 2026 무료특강 산업안전산업기사 필기 + 실기 세트 책, 에듀윌",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9660283876&itemId=28878838014&vendorItemId=94367801410&traceid=V0-153-89a448279e673892&clickBeacon=f45e9d80-eace-11f1-bd76-dd020a232a7e%7E3&requestid=20261128105640869044117682&token=31850C%7CMIXED&pt=1&slot=1",
-   "image": "https://ads-partners.coupang.com/image1/HIU91JdWQ-4_hC3WHA8OrKTSiovEEEERN3-dI_w5vfeteH9QaHqcyEOD-h0I36vbgQvBTryikRDfSW8Wqzvu6M7_s4kERxg-6ADzYErPZ1NU205ezGAfREvjPnad48u_fVQehnDj6UQlSAPirYXYVHaV1S3sGF7EZ1XnROD-AZfiBRmUV2zT9f-179hNM-LtmEH1XU-nwhNUpYmqPR-22JIKlH56U9aaaHXcdCohPV-Ff6iU1vK_HQf9uug5-gXK0IUQqz7M00lKTbapPdzdObUDKTMPSL8z9NTejdODmPrX_QC2WnPO5dPWqcTW1-7jJQqUMGUiJUo2pEhB_l19bUfzemAjdfswcZP96ffa6PwJyMks5pfwy53owzj_X0n3rN5w8z9eV8oE1u-tBat2YD9qQFAAAv-UH2RDGd6Dn6Js3KRbboYx3Jo4F7fZFCJ2YXltyt1gf2A--eKyLM8Fn8IUnVo-83JpuuWxa_2Z20BLuhMJJymtUpnSfj8Wc-gbhIzXxjNbAcmiWGqAYGAVnB0yc8PfnbN96UomLL0ZYwa2d8Xt",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9660283876&itemId=28878838014&vendorItemId=94367801410&traceid=V0-153-89a448279e673892&clickBeacon=419bdbd0-eb15-11f1-9493-20b54b4ebff1%7E3&requestid=20261128191955224261527780&token=31850C%7CMIXED&pt=1&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/quvaObg45jNDT-5uqrJt96uj8-PekOGEJArRqzaB-o7lPwPpnlj31pkW9v5YS7KSpaPyKC2JitSa0xjMWeWLQKXnwYp8gnrL3rvFu_RK5UWcnjt7h9xqiEo4hFSEnAlymadVM6XAomArgSPAz805uQXcTZGm6_SsdqRI_7mDmm4i-Ou0ar7k2RINI7p-pOY7BXLVl4IeSaiouwZOU5XhTgt4yMhsIAytP9nKKexdresJuIlHm-gkH8q5kJYU2ol0CimU3OSNkJdTbErbik3wY5wPmBLnEHXH7_T0GlCS8vfPJSx8uF-3AVeaQTWo-itId1MMZvdtj489yWfyb4B8nfnOM1Q8S9KwFw1vnnukbCrNhbnOu46XD8kGG7QdiOU5EddKJEKgtj3T7I-8kvZpqUBubwnyE8BdfBAQmfyhuw0B4HhqXbcZkqU_vdW3VZDVIsK-zVhEl6Z0EHzY9E-ets1zuZAfhEXGbupdAfbSLD6Cebdoeiu1mV78FL9z8VozMN4k9TqimOKbdw7cDlADdm9i-jjcCfa7X6BWL8hkzp3Hv_oG",
    "price": 69300,
    "rocket": false
   },
   {
-   "id": "cp-9785843913",
+   "id": "cp-9195914301",
    "kind": "coupang",
-   "title": "2027 에듀윌 산업안전기사 필기 한권끝장+무료특강 에듀윌산업안전교육연구소 교재 최신 출제기준 반영 교재 (사은품), 에듀윌",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9785843913&itemId=29298687608&vendorItemId=96223336312&traceid=V0-153-c1ecae5ae4b9d4fe&clickBeacon=f45e9d80-eace-11f1-8a50-f71b146df8b8%7E3&requestid=20261128105640869044117682&token=31850C%7CMIXED&pt=1&slot=2",
-   "image": "https://ads-partners.coupang.com/image1/uT-smvgb_Jtd8ZY7uWxVxw3SDo16yfexRLFCoGP3qVVlxdl3lQJZmlkeolR3LHn9hytwr_wPZCzHU60YnSbYudxIbquLciCYr_T4FRM-YjfhuYl9XAn1C7bD48wGOqOow3h_08lKoGFj5WalihvfKwz-_OUsN3tpLa2X3EIIO-JJ4Mkl2M-7snkg6EyfGRAMGR0wgLQkgjh5RsbmwC1yQVT5hvDIMuZ81sLe_LkzMmsybkxcsQtGzWx3pjqJkd1134WXhNWzPan13tN3KzwiucyFYOUa-lqS3zeeIU5n3VTB9hSR45maX7Mli5HPf-5pvjI7lfynkXYdKeD9HeMcSpPIDIC0GDVhuvY3GVhQmwY6XeFTGHtzjohwjarDy56IMKinuaQXkI_pS9-06-HqUtfpewtodtCzJsVxH1hvio9YibKWgfeKX_da0-0Ot-WFA7uCydcD24QZViFgFREPhRh8K38a25w8nCbxvvz03NpnU5TgWfAYtClBeMU5MfhNoD7cuwcgnPQ7czU4qMEyefDeUoYC1h4HelOAKFJFg3xHgrc=",
-   "price": 35100,
-   "rocket": true
+   "title": "\" 2026 합격비법 산업안전기사 필기 핵심이론 및 예상문제 \" 산업안전기사 시험대비/최신 기출분석 이론 및 예제",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9195914301&itemId=27144335274&vendorItemId=94112211353&traceid=V0-153-bb6cf520259fbaa7&clickBeacon=419bdbd0-eb15-11f1-a486-4d0be8635e8a%7E3&requestid=20261128191955224261527780&token=31850C%7CMIXED&pt=1&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/5kqW4WI5-nU2zSqz5natlo6i5sdTd3nDl-9pPM6JUDyaGrVCCs1nwOMc1-l1-oQBktMlo2tgjkWFdFgusXz6r8Yzfkr2sKKyG5Tfm1wxPccADPz6hfLZimdHkrRANKRxGUCFWzURd4GvYw6FPObNrh8ieSzcVgFSd02qkrmT7ulOZUlzePRmI35bJDedcu9Il5pfqcDhnM8Zv7_slWTpKBX76Hwzk1T_qmtOYKdpAd3E0LyHrT-gEDtVPo9_Il8_YHRP6vCLr8DvZIktSvXlchnR5AKuz7hl011s6rmRsd691B-0innIoLKw2bqJly6vg4LtHpgEVqDSx86Ezq47LOZGEOr1CHT6adHZBtcWJQEn0dOVCHZrbq48vJEgaQVJbu2bsoEAi1j0HNVMXDQhj6BeuYl6P_NcLExJDmQnI_If0-w7qvUhBTjdHmxdwTIfFzAuHWp6UmJtHGHx4ujtr1031JO9Orw-sLB7cs0IfbKzKbU3UGSYA_H1arLsllVU_GXSmdMDEGsb27mAjrNohftFseFQklt70UGVliP0pZP7WtRO",
+   "price": 21600,
+   "rocket": false
   },
   {
    "id": "cp-9769945069",
    "kind": "coupang",
    "title": "김앤북스 2027 무료특강 산업안전기사필기 단권끝장 책, 김영북스",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9769945069&itemId=29243201808&vendorItemId=96161610342&traceid=V0-153-96ff95ba22e6c15e&clickBeacon=f45e9d80-eace-11f1-8d74-e88441b46906%7E3&requestid=20261128105640869044117682&token=31850C%7CMIXED&pt=1&slot=3",
-   "image": "https://ads-partners.coupang.com/image1/XIpBygq_j71bGnlvXMkucrihNj77gTVV2r2Y7Vpy0ReiBepzn6rCoPblj3FmNPBhXS3MAs9tz8flm6_-lD8SlROdxfe-hFU5__nj6ks0vYZ7l8_EABH2V52C-rYnGXHjWOcmyputWXmDoktMadinGFuxKncBg8FU1XyjSfwZ4v_DFtkg5Vn85Cp4AMa3Cjdt12RQhIc7VmXI2EXbD_2odC9N6JATzG8vKp9gTv8Syi22T-erAbl2SGJNY85i-CM_yA9E_jaic4mx8CFrdTu120M_mpTzOpdD70F-iBelPcNJMVSQ0-l3vThI5OUG5PnvPza6jpZu6u_bYxsdPKfp96irgqRTHEXDSt-7lhxSFE19xV4GPdJnutnzKIPvo2pYB7Q_bOE6W8fWn4dTc7jfYDXc_tdD8Z6B4lx-hbAJXZRDUFhj_oiXX63sQ_v0-E61c_EIwbDbQx-3CURnrbC1PpUA-_WcHTDVNnitlDEnWvo8shGQg2_zQPNLwBDtu0HJytQuQyysKAO-zr6nufwzCR2bLHrh6aSBan0ayyl3EY-pjf4=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9769945069&itemId=29243201808&vendorItemId=96161610342&traceid=V0-153-96ff95ba22e6c15e&clickBeacon=419bdbd0-eb15-11f1-b745-322bea6cc20c%7E3&requestid=20261128191955224261527780&token=31850C%7CMIXED&pt=1&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/JmFqZUpz20HhWKJ2JlgwnHanP7O7vgoGiCdMiWRGUwRtARsYNK0HtGMlH_NVO4GjW87_lSNz1pOooHeHx7Ou69cpHb3shNtrgEtwHWRVZ7bMJx8cBUFvOg0dUh2jazGc3OED2Ea9UNL0a1F4IWK5t5YRqZVt0QHu9VBT7dHBuCdkv_3vKRueYhYoyXrEnTieIm_3KcyHmTOwLtitnoeG8dH0pUbZPm-3A_8YKZ5csO7YcmtxCZgpWk5BsrjlEPPPX2yQdLemb0fbYqvwFeyQz6CTraBKuHvKx1ulo834pideXommqY0tvgTHh7I_Nc2sXLJNwsLz6yDJUV1kMu2Y07wCmpOrvm7FHCVeugkC6_FEuhEvkVSgDYEZmkdYsu0sytARwlZwQ0xZX8RLkBtcrtziELzDoLhCvZdCs4D1V_3OLcuIBtrqmjCjcYJ-aaSpS-_OVRpPOheg6unDUyhA8GBLn348oZaR1rYcCO0EdojNd9KbhZx_aPIfduJzLdIFUORbZkyWCfCtlpNbv3b0OQWD1_c2ezacICLg8Dul0OiEjFgc",
    "price": 39500,
    "rocket": false
   },
   {
+   "id": "cp-9787125719",
+   "kind": "coupang",
+   "title": "2027 [직8딴] 직접 8일 만에 딴 산업안전산업기사 필기",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9787125719&itemId=29303233932&vendorItemId=96238035149&traceid=V0-153-e52b39a4abb5896d&requestid=20261128191955224261527780&token=31850C%7CMIXED&pt=0&slot=4",
+   "image": "https://ads-partners.coupang.com/image1/e8_MVoQ0ygZK-ScUe1ll_WW4z97n9nXRVPyC0O8goyMRTiTHI8ktDte4ozKR7gtcxL8_ikmnTRy2S49KtBD-OD-kPerwnxcxiE15_E__lYoBd1vyvjSEKNFGS0rtLxAlMkpNxHQvQ-oviUR_t9MEmZutcxNVaGmme10tzItj023ehI-xDBJt38oEM-N9YBQPC97AXaVfmimikarsPVGDasy4BrxwQIVjaUA4K9VgFpj5AhZ0y3Hm4rYNaIrSgjsUBpXrjBBBi1X6KabEbNe4TloOdTaMqreQwrHhHygUyuRjYMx3ggUGM7ho5fcpghmUSCPKJFQArQt-0gcjX6CmbLH1FpX7tBHM7r0nJ6jjjeTPWNrB4JQEU_8TZm7a9VriMn3H3GvxYXlhYn4bSFjscO7G0brovzH6l0bd1tUxCI7iGscABLqaxDrmKrXDyGpyU_q5xOlaYINH4nPRZ_IyZrtMXt564ssA-Q-BqFP7q7isgEIMdIcLaWTrVz2pcLr-pD-oPfbEpz4vy26NspelOOgyS_tdHvezpeB5EBuh_A==",
+   "price": 35100,
+   "rocket": true
+  },
+  {
    "id": "cp-9792426081",
    "kind": "coupang",
-   "title": "2027 에듀윌 산업안전산업기사 필기 한권끝장 이론편 + 기출문제편 세트",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9792426081&itemId=29319036664&vendorItemId=96251685691&traceid=V0-153-ea430ac3302b0093&requestid=20261128105640869044117682&token=31850C%7CMIXED&pt=0&slot=4",
-   "image": "https://ads-partners.coupang.com/image1/_Ze3NxVauBnmp8pL_fOMDjI7-1qnRnCcnuySNFevOxRh6noAT9taVufGNAmxYh6OaZgvt8ZSPOGEuCfgftJp1J-PEt5izy9HrG0OzX-Y79H_pPAibKr2EwCXM8mEkvrVpNJlnp7onD6f_mAFQ8mUEsH3ZPzYL0MB3wzZ73FFvBbCwYU9CYxG5H_5OjlDpNLm8uzFwOyJMNmyTSyTrcir4THA9RzwKxAGBkxB23h6aX6QY3pnEwnth2xESjZtc649s_UrFuMH6DqiY7Ca1TdJo2EoA3t7dMSv4RjionjXDgKB_WWLVHgTEf0JrCyX_EyhXWRUFIrzkOpKXc7XGOJ1qv1mUCHwark4GwT09YhhCJaBEYzUYSEBIfrANL6NqrbPQU0tL4L3u25CKvt0cobKaMsMY-l2RFQSg4YGISyH075N_TDZ79b9oNfTcnVMzt49AR_0sy4up52t5QffCTWJx34qcNcoy1yDasxXGc17G5nv7GODPqIYCqa5UNxRtGsWRLOyzgrCC0ojpt1oCI4KfxEucdNAmoFNW2fhZc_6",
+   "title": "에듀윌 2027 산업안전산업기사 필기 한권끝장 + 무료특강 + 모의고사 + 핵심요약집(코어북)",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9792426081&itemId=29352905537&vendorItemId=96273640977&traceid=V0-153-ea430ac3302b0093&requestid=20261128191955224261527780&token=31850C%7CMIXED&pt=0&slot=5",
+   "image": "https://ads-partners.coupang.com/image1/JD2WhM6m1HqbLyHtJCRKFCYOSIB7qBdgqT6dK9cs-f1_aXvR1jZBqWPJZHtcieKAPwYad1cOwnne2Ruyu-1tDDDP3X2l1DoI4TLRDxkw4hwuOwDBzSXWIs3A-3uB7gYKIbaOwGzZJMsa3iBfMMSBnPf4PQAK0JYvueelvdHGbjXTrgNiiFSH9WYucwpN0XTITKcdQZ2jVuu7vDL980pxiq5Qn03OmeVLPXnlHGheubiAAUJL9eNGDWEaBFAyfpAww9GdpB8DIM_F5dJpWUzzNPJosIYGvBqW6JLPX6RfCRIQ26EnXzJNXwZpnHZMRHa0qzQF3JJt1z3iIWnPj6xwv5E-ovtZp2men4U2MhyqiYcPwe7KXy9ApvsdZYEl9M_zkMBzinywlDjyWkC1HYUv7CQ27efs0W0s0jRkaIAJPt2lNk-hStDm3P99HYSvebYmeoB-iyy4_NcENUfEypuU2fQVgBiUdpaVWOzbDKiy5XvgEtcoRdxkuDd0IwP7JM_PaJMYfers41PCLHxwxAAPhXKfWSJkjVXRFBxSgDOpwXldYLvznH_I3zFdEfBzgA==",
    "price": 34200,
    "rocket": true
   },
@@ -43,18 +52,9 @@
    "id": "cp-9699156859",
    "kind": "coupang",
    "title": "2027 나합격 산업안전산업기사 필기+전설300 세트:무료특강+온라인CBT문제풀이",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9699156859&itemId=29013325465&vendorItemId=95941376614&traceid=V0-153-ff2ca24302ba22e6&requestid=20261128105640869044117682&token=31850C%7CMIXED&pt=0&slot=5",
-   "image": "https://ads-partners.coupang.com/image1/aH8mUDAhH30a6J4uaCsCWmiJKUiZ1lhM-BF4aeRRvLxPD8YEx2y23Imhz5RVz0RWCLGHC_8cW8pyHVmfGtPCp7AEnhoBXsnNmgePgInz10nTOgfJPkBIyarfCOWEpRzxUiVY2yvGSBJedSWlqzEqvtdaElGjkDnzXLe6Uy0UowIP1p8xdvaUEIWh3tjRkOyf4kOkMgEPxFs5pZe6Y29gF5ruJotBvhlO2aOCzjNu9O_A_qADafZjEPxsSQHAUisNvNopbglfiZDyVNgtAWK2WGVFhWb0YQvqNocYRLQsyawVc-meipuYK-cpAHS7bcU9ZoOg_vKqGcLwjRIP7lYV8v67RaKDslI0ZtFtIy04FSokxo0P4BDaOxUrLmG4Hn6KFkXRv5GsX7ODTxLP0_-jBb5k_XwOyEl5K-7v8dkKxPNhCpSZ1jznqB0z7DjY3E4ztmi3RsyGpKPI0xU8Igu6Nt_JHKPOTO5LGoUYxaZ5JE-IrIjFS9CWj7_OiAsLINl39bdM73cj1YDHqXA5LG232IYwz7fiCPuyMGN75NsgEePQAh5K_AQj0QF5PCXz6vR_",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9699156859&itemId=29013325465&vendorItemId=95941376614&traceid=V0-153-ff2ca24302ba22e6&requestid=20261128191955224261527780&token=31850C%7CMIXED&pt=0&slot=6",
+   "image": "https://ads-partners.coupang.com/image1/xSDVRHuodyb97q1Jxfv_FzO7TWZIMOgcbuL1OingcwqHOx68CTR4hUweHgcjPutpGF1-6nV9bAt8B53B-PXwtd77xuF1DhFWRRIOcdCc8HWuA5_yK5GPrOMO9OOW0E4wOq_o-GE0aDZtrFFwat_b2D4_2rrgjXa3iSz1lhIwF3YF-ySuxSeDH5qNqXOgNP3Sa7lyQ76QC956h_Hf98yD2emzE8xwdw9cT99coNX64W-FDH0h_976LT8gwD4VH2HdMj5GI0oZRWwlTmghRJBy53YHoqjJH4TyuJ6lgXAjwg18F7To1dGG7prB7r6IbroVbwcH4Q1UxI7IonDQ8V6ArfzNUBtd4ztaOEYgkrouEMdsGYo-fcbRiDQmMQGSegaXivuiVcBUy8zncEgkqtMceHZ9csxpg4tqaEdemTAX7c4wHGzK3ZHsN7wm7jGHofZWugq3rIya-oYicfyZtTJBHdjqYOTsf4gw-svRrG6B_2CyGrC-GtPu-w0SDAXbYcq-pij5u3MhgoqoVNIyRsB4B_4rVIu_c1CTRbfaCctDppt599WxTsIBEgncp44jyCw=",
    "price": 37800,
-   "rocket": false
-  },
-  {
-   "id": "cp-9837887864",
-   "kind": "coupang",
-   "title": "산업안전산업기사 필기 3일 완성 2027 기출문제 문제집 PDF 뚝딱작업실",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=safetyindapp&pageKey=9837887864&itemId=29468339091&vendorItemId=96372741256&traceid=V0-153-96e66425209295dc&requestid=20261128105640869044117682&token=31850C%7CMIXED&pt=0&slot=6",
-   "image": "https://ads-partners.coupang.com/image1/w_FYnZtlR3Ng9_f0w4j8Xaxz-N2_snHn3PnX_zzzqrRSW80ezB4eB5JTje8i2N4qMcWwl942_svkmOs5VHcYsctZhYrSRYCkX-XVM3RdBp0Kh3DrAuhinUvpU3lcFrP2NUFnpFaNXCquCpmsakB1ccDVsy03iLI9Ai6asdsdr74AInpa1N0098RGg2vCQpdfmfQTUBZCOzAQPIyKkbZ1XiEdDLmio0zHJUq66UxpGioT8lVdn1LSNw5KRF30otJWqHx3bi_ObwUhkNjsM00ju_hk2TEbSAvmJFjubV_InHUAD4GtHxhJWbYBIL-ceGieJxG4LzXZMTvl_B80Iwc_RSXv5XtCayLDxJX1nzhqyt90jQkG3YwRYzX49rXClhF70iSUncDTEdqDO1gOVh_1ZacWuutPyX4BQjkKGQ5P-XlZl4NOuCO-5wF2GIxI0oOg1HxRkPHtZdB49KS1K_7Eta-ChFuWxHBpo7HbCH3t8a9BZEOjglwRKpJ6AlhND47B0YC0iAa_nr5_-eEYfduDgcGlMcSmIODq75P8GSr-oD0VJDSvx0DpyCoCEsCbf9M=",
-   "price": 7400,
    "rocket": false
   }
  ],

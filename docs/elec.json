@@ -1,41 +1,14 @@
 {
  "version": 1,
- "generated": "2026-11-28T07:02:59+00:00",
- "coupang_updated": "2026-11-28T07:02:59+00:00",
+ "generated": "2026-11-28T10:19:50+00:00",
+ "coupang_updated": "2026-11-28T10:19:50+00:00",
  "coupang": [
-  {
-   "id": "cp-9814257004",
-   "kind": "coupang",
-   "title": "김영북스 2027 짧굵 전기기능사 필기 핵심이론 6개년 기출 단권끝장 + 무료특강, 김영북스",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9814257004&itemId=29392726650&vendorItemId=92974305161&traceid=V0-153-a1932ad4ed0c012c&clickBeacon=c4524bc0-eaf9-11f1-a73c-e1375b804aeb%7E3&requestid=20261128160308617144787062&token=31850C%7CMIXED&pt=1&slot=1",
-   "image": "https://ads-partners.coupang.com/image1/HAydj5T5d9g1waOjHH9eFKVpwX06Xjxqg3TXWYN5PD2NtfL2C0brBsX6sYcy8tnFNuATC_txyocnbjXWyaPTObJ4AnY_a6ei-RIr8KIgsxyWevvgWVXHwSrcYlEkbZUXj-cqLu61o4wjmDrmwN8cC5BcvuGj2gIyChShbVkPPrpiC1fdCMbCyTQ-alu2U3-HRUGR98-Ii450pYoRTIqHe-aOlxvTIRMsNwSJnlSqsfqD9l7r7zYlPw8xYUiok_V4LuqqtrsrtAEpCjg8QHAEFZt0CH6YIVdvZ9wTq1COBy-rbTcxux0ZRvGupqK4WLe7B-0Y4MwHU4_ruJjdi-cD8cWIc1REkbvknguSmIzTJUAEDERhxuPHHxbj16UTAlGoa3r6Hep_EaNt-jYzwa5EVZilFYWIvgXW7m3v1UKxVSdVZjZswQPdqJ-I2wn_lQ5iQtMRTtL8PDFYVXIZRQG_K94lh17VRW94mduri_6FHajusyJSIzxfJQdguNxiZmeTNv_tfA2jGBoWfS05j4NpO2FD8yma5Qy-9gEms3xB5A==",
-   "price": 25200,
-   "rocket": false
-  },
-  {
-   "id": "cp-8517630061",
-   "kind": "coupang",
-   "title": "예문사 2026 무료특강 강준희 전기기능사 필기 핵심이론 + 6년기출책, 예문사",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=8517630061&itemId=24659405433&vendorItemId=81339115774&traceid=V0-153-8339351f7d3e4b6b&clickBeacon=c4524bc0-eaf9-11f1-9311-1cf018c8af45%7E3&requestid=20261128160308617144787062&token=31850C%7CMIXED&pt=1&slot=2",
-   "image": "https://ads-partners.coupang.com/image1/lkfL9STJG5F3oq2yljZrrQauThrq-X-UV18k-JhSmM62UudfidIfTJDQtPxir28pu0vceh235dd58Dbshg3g79iqQUtwJYGOW68wfT0Nha_YQt34lMKqERxnczVAFHafU0rz2yqNk1-TbKFd1ycTjciHgsnwubThMnvlxc-sukD3SA-XqygAXdZKA41HDZ1SHqUVFRtBkGqKjJZJQOFF7u5ihftWEUlQ4XRvNJfth1xo3g47C5OhAJUYpCHIDbwTxf0KBr58rZC7DEGH7I3CiGcAgXN9xsqiujgSs8btFMV8YGymSXOBk7gqOfbjRv68Q_xII3yXjd9vV2C5G7SNovlj9dq_Q0cq40oUfRNf65f-JGEErUfT9U6OdeF9a52rFq5Qk7DPZfhN-smsJDUkpZQgAokB7z_KYMf8xjx0zr2sN1HmSXJw2reB-M0tZFMlJpt0pqMddMty46MhALA1J2PwHYC44M8qmuSwJjk8AK8N2Wiy-RmJhZy29J-WEh1GYtrTXEPMIiOryi92faSnTm0FUnQUsGpU5PZIESJX",
-   "price": 25200,
-   "rocket": false
-  },
-  {
-   "id": "cp-9811356757",
-   "kind": "coupang",
-   "title": "책과상상 2027 전기기능사필기 기출문제시험",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9811356757&itemId=29383032088&vendorItemId=91460100474&traceid=V0-153-b29fcbaf3ecd13fe&clickBeacon=c4524bc0-eaf9-11f1-b454-b55c3ca8ca02%7E3&requestid=20261128160308617144787062&token=31850C%7CMIXED&pt=1&slot=3",
-   "image": "https://ads-partners.coupang.com/image1/0X3tstApnne1HuDT0ZMLvYq2CRi2NXD3v86HFwV6saPQQB2x5048YGS-JuTC5NHILgJu3_QVEhvcPPa1PWGbFDwyyL3lJuHWWB7LiWc5mcEywpkjCjkKtt6j-NQAVEzBYVwHx8SebpDRaFT1zNwKMGkViM9JwK8c5BMBQ78-jW0UVZV-quPsPaZ3i6W7dz9XFUiSjermHzZvv4vM-BNOID7L8w_BtNd1D6simxnZBvcAyIirkLNnJq5vZCZsDVloO-p1tCUOLXYJCyNUWiLxiaYR9y6xtsgwj3Z8zW-GMcwdDYXmcL5QQQSOZ9FiJpGlx7Sh18P26LOvK_WlBSuT0wru_gP3XrsiSK0Cd82m6tRLx4kPenSH5dXCCdg-yKTtOnkJ2yN9VYTbahfs1swjacYkSveVM8nUbCs1JuIrfB6VtQKaTaj54Z9A1KclQGs-cMiiop9ffrmbsYWjWZTbFvBsVwDwKSsHJG3s4Thsobl0cBpTltV8uf6VHVvcKxIZzk_pCi9LhUMGAjjlZyjH2lL6MqmVyXvUYEajQPRb",
-   "price": 16200,
-   "rocket": false
-  },
   {
    "id": "cp-9814948248",
    "kind": "coupang",
    "title": "에듀윌 2027 전기기능사 필기 한권끝장(초보수학 빈출포인트) + 모의고사 + 선행학습노트",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9814948248&itemId=29395187493&vendorItemId=96279295559&traceid=V0-153-0f39a10afea4a253&requestid=20261128160308617144787062&token=31850C%7CMIXED&pt=0&slot=4",
-   "image": "https://ads-partners.coupang.com/image1/JyjNS2gkeNb_Xa7SJ76LDqttOwWl44pkdlFvqlYEheojr44aUczvH2mJwJg0YrziSdAMy9vxWnkSb5e1a2LG9HxFpKt7LPlFnxN3WkM7vTlGl8OQhfl-7_rzDqMRE0zUzPdA7lmWNcYCX4-gfRyIJx1VE-7xlcDHMdDL6Ywy6hdqSrW74_8S7UBBJ6Y1s3J46ZwYgVG_iRYpCcsDiviQFVmG0sFYUAnI62MMNABM3RJ49_OHv1EgAY1Z72q7AVV7sC8dxPAf9ftxKXwmSWtE2VNMJxrPu75Do1AkvvoshE2FglbFBaphtNJJTg8p6njbWH5HfCTUEM6bc9bh3O6Or28sG-x2qoGIWjKd1ZTJ_5N_6imQzEs3C4scIlvqiX6hMeOI7NE7BShABzasBnTMcyBZN56vnLZny1lHIPZuv981OOGQxE6jg-oq1mE2h0lG3c3nDG0Kh2-VXbIAbgzoZqLYwvOpmqWPKfDkd7zrjV54_1ptu_NmwMq5SNKUN8qzL0McMpghIm4fyVd7fDyTC9B4hY0Wizzhwt6BTJw6YPVRLvkHCLQDltU=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9814948248&itemId=29395187493&vendorItemId=96279295559&traceid=V0-153-0f39a10afea4a253&requestid=20261128192000555262270334&token=31850C%7CGM&pt=0&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/7iZcjuGdn0Ny1fJ97jKUYeFi_wcy2W9hWIBgUalGctipgW8UFNglNDJmYBoOlmk6ez7ztqkugu0QORZxizR-Z-hiRbFd22s55tOavIJsUqsqt4ymds8xle6ZOVblSbk-p0yHIBfjseFlgUIClVxSShPnaA5zFx0pA8VT7mkBoVE70YabyKrNtt94x4jx-Mq9T10iUwP0VBM48hXVBs93RQKECcGbNDkox15-sXgFE-vG7o6-KXLLTciZfnG2kL9-UoOhnfW7CaZVuTfrlxrIeWXlRhViPShR230v2G7QmlErjNpDHX0qIc_gCXxw5ARjF_jBCGZXnNeSiF-rP7HixbwtNVgn_uUaP50BRXMtf7aIMKTQ4zMgJjimwACSXlfgLq7bfdkntTmE7dccMSIz6Acg7Gua98aoCQEWcSsCmGBDSqc0fynlQ0GgVilEP79-nRSjV7IhIDqHLaT4Mm5Ece2DStMdaJKNGta2RWN04yLoAziCOvAY00jEIdHP710Lbg1vMeNRlhmefukk-ntdHGpzC0TQraodBWsfxOswp5jPkyvS3mj7",
    "price": 25200,
    "rocket": true
   },
@@ -43,8 +16,8 @@
    "id": "cp-9797719075",
    "kind": "coupang",
    "title": "2027 속전속결 전기기능사 필기 이론",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9797719075&itemId=29337490380&vendorItemId=96251078559&traceid=V0-153-7019141c66732f01&requestid=20261128160308617144787062&token=31850C%7CMIXED&pt=0&slot=5",
-   "image": "https://ads-partners.coupang.com/image1/20e0OF0ZLOUL8Gvw23ln2RvRl58iMpB3afYKBlI7qxob4T_pO-XUULsXIsvVQ8kYwIizyYKG3rw1YjHrenXeBPpz0sOz-e9QhkZTq8orZchMTyuBtLpvxjS0r_MVpCADr0jLbkMBbb19Pz17Akv-ieeMFO5xKvirF3Ju09BYq86DZ6vnx47P-zzbUy-1LbCX6NPPTFi-GLGLL1P4kcskXeEdUIB53lMohFuRJSWHoLr5KMPWjjt4H4iV09eJndOp2YN3zq1nl51LqNlVHdv8kkGkkDf9oOTyXe5VJ9MXkvr8h66G6g2bOqafhiseyUe8bULNZMbFvp_anBf9KMbxxQ0C3UgQfl9dnhJUjMh_FRag6rVmmf3wZdsQxXZaAj6F2JT-nd8Ne-sxTiSN7rDILZDidHXxbW4bysbXPpeuZNRab5MMn31xwZTCWE5HUoJjyAT0daBxiukFv9ZcRwLJzJhulJPSlJbf7Ji6RskRow3ZpTYqT4c2BgYITRg4dJB_VOlfzZyJwcGud_rmRtC80dGVyvjpZSDfOe93lV5hsiyXfIYvTRHaP5oA",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9797719075&itemId=29337490380&vendorItemId=96251078559&traceid=V0-153-7019141c66732f01&requestid=20261128192000555262270334&token=31850C%7CGM&pt=0&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/my0x3zsTn4SD2KqQmwkKYrX5lV_suUZKR2__-x1S6JONQIsu7A4YK6mZQOPGnLVA2reG6HigBX1q3FJsz98F-RPi1hMmtTeg08xEnMTh3Kb9vpZTuE8nOSkHE7A7ZsufP-65hvlxUeq_G_jd9qcbgOpJv65BwpAkCwDramtbOxWrQa3uZTKiSry5B9E2vGV7i2e8vsfbchqhBV0bIDwfYNx-d_eDpBDZeVRuZk7583lFMxkB2BZsoxNGJoPUIMCqBuVQILSb0AP4X9AqaZ-0jCJWK8dCQuvjziKk5g7jsm4loHvq6sRU0yX-3EkXuX0PKnp7iXLVIWSybsM-cOIvt7TBjv9PnrvI3nRlfqRSvUWzXspN4iP3OnlKd3B1AHe2ECgSg0R1UFnGGZZc6ymeBugYvShyIOXf6wJhS3sXon3vKI-SZCfhZSljphC3k9DQGWszA-M17CPDBADj-Nn3uYvNRjhHss8VyThHbXQS6J4TQldvOZbFVdqbGyWFIFZrwzF64gkpobAgrjnmsj6dOhgcAxaNUbptMguIsKycqH2N3ZsPwiQ=",
    "price": 32310,
    "rocket": false
   },
@@ -52,9 +25,36 @@
    "id": "cp-9698225514",
    "kind": "coupang",
    "title": "2027 파이팅혼공tv 전기기능사 필기 초단기 CBT 기출문제집",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9698225514&itemId=29010051844&vendorItemId=95952412650&traceid=V0-153-57f91f7ec3cb6dce&requestid=20261128160308617144787062&token=31850C%7CMIXED&pt=0&slot=6",
-   "image": "https://ads-partners.coupang.com/image1/AzG14dhLBEvJnVnuAwNQpWdC9Y1kPPgR-rpkrhDxbfUqnQMRS06-B6UYTi_1RYRfvDDYPa5ArIJ_X8g8lRJGcxZMTF4blYSI6xs5eIFpwVyuwwngoq0-s990Cztoyenv4zA7bX3UwknvS6gBVOGYCRIVpusCwE3o8UGbbVSpG7FC03v2Y9tWwk_pO4OtroBmfHpO9O8J9vCBnHeYc15Vxm7Df3qXVdZm6ZTklct7hzRDDz6XxQcXsq60x2eynh5pg6MCFxcnBkcNTNAzC4dark8TkUb_bXgkSEyCglq_F8QOsDLiCZqNiVZLKpfJQAPmfaMWW3aiEwR6HmP_V7Z_d-LECZBmZLr8WvcBCE-C_74t8oPpKln-EVanDk0FDktOCfMK9wNnoAoXRRPNTyYwtm1ZZzRvXLcjufmRSML5fMp-6CnGaaXzFTtw_Wpqu5v-tPg54A2WDClpOsojCKx0uI-1xEbNAMc0_vNRNcPiJtFh4zaca-nnfrE-wTzt564gsgv22dvrUFG5zgJq6aJwa29n4O_PEP_-bmk=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9698225514&itemId=29010051844&vendorItemId=95952412650&traceid=V0-153-57f91f7ec3cb6dce&requestid=20261128192000555262270334&token=31850C%7CGM&pt=0&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/k2-fFOmnAzgDENw3k6bLPpt2Vni5rDeFbWkg1g7vyJezSypCKjKzoxVJR-sh2CKC3Z-qMo1JYtDUZHzBSW1WO0ae25vuM28INjbrHxH-B4ZYdISsVNn0WAvIP1yAKk3gWReZQI6GGKKtEAh0yRRy-PnwMnwYc8XnBYCb8zURhAZeota87iQlDpBUnKIIAq79VSMTaMDlEPEbMHWhq9VqK74_qfj_pPzM9CrY1aR662b1qj55DikZ8yhfu-QX8G5V-skw1ECsOezgrFhMijOrHohNgEOTOqjcMBJXFv5Cl_0BtrjmPzHXFAKvr997Ml_gEjDCLQvxU3J02ttqbMcg9kqG6DAcCqNrskXT2fGTwFQBKPvfyeeezLcKsXr_WQIvWJpmfeeCXMhP1J7-Mhf7fnNvd9QpNWh6S1WfZvysQEtB9e0XNN-e5OWZoQVgRWy4q0emMuUZtJ_p9AvoFP0o8ZHX-usVifujb-wPcCn7hElIQHuqi0KpMdydM8TAuUnZ3GJyF6u5r6fz-9TZzw5fpG6LThTQyA==",
    "price": 25200,
+   "rocket": true
+  },
+  {
+   "id": "cp-9802923304",
+   "kind": "coupang",
+   "title": "2027 에듀윌 전기기능사 필기 한권끝장 핵심이론+8개년 기출",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9802923304&itemId=29354650136&vendorItemId=96269507704&traceid=V0-153-cff5795fe528de49&requestid=20261128192000555262270334&token=31850C%7CGM&pt=0&slot=4",
+   "image": "https://ads-partners.coupang.com/image1/KVnIxjffKPyz2TJ5KeSSDBdwvnkxtc2K7XjJogVemY-onfJwlCsmFF1r37D1Gy3-OsFX_0VTrmu-LBeOTAQWkZqhS_hF7zwaKZOCCw7F09OkzHqsIaQ5tTVqV72Fa0QPmKoB_JiDKldNzY7eAZtReyVwljQGXGM_dxpfB8L85BAzmbNcpDEw9gupke3W6nJQFkPUYh--uSlhbEWAxYqN40T-MDV6S4o3gnnMerMixHz_FiRAIBBB_wzUSqbwTql-9aQVeHy5KBcrSkx0QZ-64CduJV_D_ecqS3y_eUOK103huM8BKFBk7YJMj3uKAflzExgStg1zb5TpKFCOJk2_h0qCOklBgHN9m9_9CVCUDEUPztuC_tzji6J3QL4DaGRCraIv-SmN7D17k5rqZcA0c-hz6fGPNQM8FJz-Nd9-8kBzKPhBhIQ3BT_HBfpcJFHgTQridsvOCA_6HcHhJVRrVehJ1E4lRnnb4WMkyaLuy4FH-my4ghXwLqFEMF3WCsF1IwQ9hjIq9y7iUV8V0jDVkmBD9GoV6Fk=",
+   "price": 25200,
+   "rocket": true
+  },
+  {
+   "id": "cp-9720318345",
+   "kind": "coupang",
+   "title": "2027 독끝 전기기능사 필기(기초수학 + 핵심이론 + 8개년 기출문제 1권 + 2권 세트 전 2권",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9720318345&itemId=29088850826&vendorItemId=96014442916&traceid=V0-153-577fe97524affc0b&requestid=20261128192000555262270334&token=31850C%7CGM&pt=0&slot=5",
+   "image": "https://ads-partners.coupang.com/image1/z5exCZ0luNgwqgTVz-y6-roUxQDcylqcYVpr57tBkNn2-sdoyftKsB37-FBz4lEx452QPzo473qw5f8cU5teA__dNgiXEwUu66Qq4kWiIgPRDJdBIWXaPzk7iA9yOvEaxfvcLKPRU-GzV_YXXWereFJCsA3dKzaNi04zYuN-LilDPpM_BP-i6Dy3FtG3J-m1N7mZWj5bk8bR1BEYhcc6AzelU0r0CyIDlYuNtFa-SowZEU5j3cc2d6jTUKzapeMW_ZBfX-kgaCC6qV8IL4q2WmROUg_d6rtZ-q-dQEcPTTaarC7bnadD9X3zB6dVuU0p10m2XcC6CjhWfl-Bc19R7fjFCj_wjws1Kyc8XRd3-b48og3R1ygk8CKwi-n8KrPpCv89aUpAdVgx_rMBLWoy-3AQUkDyE0vJhd1HoZP2V_oMnqU6DY3CJn4HIqcqTjBAD2IT6nK2M-nIsenJGd56d-MiRnMdJaSrx6CRM93tcd-tE6OZRUDBWgp6rdZOXQjmqZ3Pdp4br7TAMPQhCK8SwUiV6YCuUw==",
+   "price": 25200,
+   "rocket": true
+  },
+  {
+   "id": "cp-9738912769",
+   "kind": "coupang",
+   "title": "2027 전기기능사 필기 8개년 기출문제집 + 무료특강",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=elecapp&pageKey=9738912769&itemId=29147524524&vendorItemId=96070775210&traceid=V0-153-a09bf7a0db5320b0&requestid=20261128192000555262270334&token=31850C%7CGM&pt=0&slot=6",
+   "image": "https://ads-partners.coupang.com/image1/rkDZvp_rPsCzrLo5rldPFIOsp20klhZJw2IN-wA3lTj4djbB_3Jb5q0NR_a2OUDHXq0CRXFqJSlPMnReJb5kh6Hm9or50UJidQxiIBb3hPafqh2Jgs7arlto2sH7yeYczrnpgIphk51JExS0PJZsqJVBpTxupOhrF-TPBX5ekeWv_GfVc1ur4otOR9tsNb0pSuHbd7HQLnrUj-JpMe8QG29TQx6Di56WouFfLkcsMu1Ywlky_xclCxasoSJkH7UYmsyHibL5WwLrXKAGZoamQCuyRDwwoW4kgyYyfIYOCdYRMvOtkZnJOoBa2M_EVDxQg2QBp1C03p1TgAUg9lo70lXfEKJryr6-ZYVTt1r1Z9jUxKWAsBRi_Kp-1-S1-2sL6jNbvT-mkfvJwLTyPwhZe8mTnZGxHeCuiYPh0LVg90BM5cCSzhL5Qx5_F-k-STMDo8jeBvSoDmUzyjfnEmAjH8GLCuQDopbWL7khJZ18nx5-FkZLGZ1zwiuplNxpaIXAicKzrUUtJedMz8g0lKoWxW7MO1xZF60=",
+   "price": 18900,
    "rocket": true
   }
  ],
