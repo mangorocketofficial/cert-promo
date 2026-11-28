@@ -2,84 +2,19 @@
   "_comment": "종목별 쿠팡 검색어와 채널(subId), 공통·종목별 자체 배너. build_promo.py가 읽는다.",
   "coupang_limit": 6,
   "certs": {
-    "forklift": {
-      "sub_id": "forkliftapp",
-      "keywords": [
-        "지게차운전기능사 필기"
-      ]
-    },
-    "excavator": {
-      "sub_id": "excavatorapp",
-      "keywords": [
-        "굴착기운전기능사 필기"
-      ]
-    },
-    "nail": {
-      "sub_id": "nailapp",
-      "keywords": [
-        "미용사 네일 필기"
-      ]
-    },
-    "skin": {
-      "sub_id": "skinapp",
-      "keywords": [
-        "미용사 피부 필기"
-      ]
-    },
-    "makeup": {
-      "sub_id": "makeupapp",
-      "keywords": [
-        "미용사 메이크업 필기"
-      ]
-    },
-    "hair": {
-      "sub_id": "hairapp",
-      "keywords": [
-        "미용사 일반 필기"
-      ]
-    },
-    "safety_eng": {
-      "sub_id": "safetyengapp",
-      "keywords": [
-        "산업안전기사 필기"
-      ]
-    },
-    "safety_ind": {
-      "sub_id": "safetyindapp",
-      "keywords": [
-        "산업안전산업기사 필기"
-      ]
-    },
-    "comp1": {
-      "sub_id": "comp1app",
-      "keywords": [
-        "컴퓨터활용능력 1급 필기"
-      ]
-    },
-    "comp2": {
-      "sub_id": "comp2app",
-      "keywords": [
-        "컴퓨터활용능력 2급 필기"
-      ]
-    },
-    "hansik": {
-      "sub_id": "hansikapp",
-      "keywords": [
-        "한식조리기능사 필기"
-      ]
-    },
-    "elec": {
-      "sub_id": "elecapp",
-      "keywords": [
-        "전기기능사 필기"
-      ]
-    },
-    "barista": {
-      "sub_id": "baristaapp",
-      "keywords": [
-        "바리스타 2급 필기"
-      ]
-    }
+    "forklift":   { "sub_id": "forkliftapp",  "keywords": ["지게차운전기능사 필기"] },
+    "excavator":  { "sub_id": "excavatorapp", "keywords": ["굴착기운전기능사 필기"] },
+    "nail":       { "sub_id": "nailapp",      "keywords": ["미용사 네일 필기"] },
+    "skin":       { "sub_id": "skinapp",      "keywords": ["미용사 피부 필기"] },
+    "makeup":     { "sub_id": "makeupapp",    "keywords": ["미용사 메이크업 필기"] },
+    "hair":       { "sub_id": "hairapp",      "keywords": ["미용사 일반 필기"] },
+    "safety_eng": { "sub_id": "safetyengapp", "keywords": ["산업안전기사 필기"] },
+    "safety_ind": { "sub_id": "safetyindapp", "keywords": ["산업안전산업기사 필기"] },
+    "comp1":      { "sub_id": "comp1app",     "keywords": ["컴퓨터활용능력 1급 필기"] },
+    "comp2":      { "sub_id": "comp2app",     "keywords": ["컴퓨터활용능력 2급 필기"] },
+    "hansik":     { "sub_id": "hansikapp",    "keywords": ["한식조리기능사 필기"] },
+    "elec":       { "sub_id": "elecapp",      "keywords": ["전기기능사 필기"] },
+    "barista":    { "sub_id": "baristaapp",   "keywords": ["바리스타 2급 필기"] }
   },
   "house": [
     {
