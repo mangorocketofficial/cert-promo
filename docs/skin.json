@@ -1,32 +1,14 @@
 {
  "version": 1,
- "generated": "2026-11-27T18:55:31+00:00",
- "coupang_updated": "2026-11-27T18:55:31+00:00",
+ "generated": "2026-11-28T07:02:59+00:00",
+ "coupang_updated": "2026-11-28T07:02:59+00:00",
  "coupang": [
-  {
-   "id": "cp-9234959137",
-   "kind": "coupang",
-   "title": "에듀윌 2026 맞춤형화장품 조제관리사 한권끝장(핵심이론+900제) + 무료특강 + 빈출요령노트 + AI출제예상, 에듀윌",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=9234959137&itemId=27302534011&vendorItemId=94320858605&traceid=V0-153-a59e140936331e83&clickBeacon=2232a5c0-ea94-11f1-bf2f-1f07a2dd88ac%7E3&requestid=20261128035537369323548380&token=31850C%7CMIXED&pt=1&slot=1",
-   "image": "https://ads-partners.coupang.com/image1/BTjBv9c1OE77qPIeBVQZyFf8sqNWEM7xi5c6sDf_mkoUGsQ9nQVzV9ZY_R7v8vEoC1bHqNAjF4H_0scD_GJeKj3S8UNEwbydawco_7Dawd5NycxkVbJPsJiKnEKoA2pnxPxwBzxyKlXsIJLdBjw8aFJVH3g6X79nZzISVoKd1ORlAw6mNBsNDNPfOBn9rJPEbq2dY2bFav0MPynMrXYa4nqIpDXFaenxKaoV-8oHxyv7eTIOmnNiHXCyDg-bYVqtgA3vhm7dclcBj4Pi8ORfRgzwZ5LAutU4jCUIdf5fe-H3x_O_NlOoKR3H4vbrl0sHaPfBwe2nBztIg_uIJ0TDGuNerVHK2tUHQD9Q05yj-YioPzFrdG1HZ5iztQRqs9p0iSCm9dk3M7vqxf8ws0Ztqc4Y-hkL4JcMHLzjEHb_O21wMB23hs38udi3DYeCt95ycgO58zrfkQm91WcPEBdDBAGE5m2qPNyw9LcllrWi2UIxBPQvrl0V6msjeVStQsWjWvQW3fQ1siUaSX_8fcUCTg==",
-   "price": 36000,
-   "rocket": true
-  },
-  {
-   "id": "cp-8007611783",
-   "kind": "coupang",
-   "title": "크라운출판사 2024 피부미용사 필기 출제문제 시험",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=8007611783&itemId=22327436938&vendorItemId=86838237826&traceid=V0-153-30689e1503863eb5&clickBeacon=2232a5c0-ea94-11f1-a172-e2086ed718e0%7E3&requestid=20261128035537369323548380&token=31850C%7CMIXED&pt=1&slot=2",
-   "image": "https://ads-partners.coupang.com/image1/LbVOIdU3U4rTpHx0LSrCAZJXZ0MlUTwTALs5xvjtMbK48Ch41j706JC5qHQD8ZCJp-4gWJEpVVMTI8thl12J3O3L3HpgeE1OWZRUoh0UUon8VN9iX4NfR7FEqw6rNIza_bFXvoy0yFXIgIVCf4chETXtowaI2oIhiCeFeGLtOFg1Q2L0aZ6538g_RH4kw0B-oXFPP-1Ka7dXpWsnogAHr4Rn_anpfQ80ar7x_gQYAnd8dduqCAWKh64XWZleTf3_ksvykav7PGR-cxb06BLf99POMraIB-oVa5lIxs-VzfrVcQVrYLmP2cA9C2tofa0K8Kqx4vLLR-L0G2Vn3RGsnMaokAwuJlp29Q12XpdDvuyziIO736ViVjcjjMIePw66qqBAy29QPJhSyJ4OTnzy-IiOM1Qfw-Y5pTZoXdlCuPxQjbnCzsZIY_glHftGPoJEHb9taqhWCI6Ugi5sHBTr3t3MW_eKJ_zogd0khhd2jRVKDFvId1Nl0i4FmKCrOckb1GdfeEvG9OC0a55ZN-5Cpo9aCRzIfylmDDd0ZgQ5tQ==",
-   "price": 14400,
-   "rocket": false
-  },
   {
    "id": "cp-9086822249",
    "kind": "coupang",
    "title": "2026 기분파 피부미용사 필기",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=9086822249&itemId=26699607563&vendorItemId=93708718279&traceid=V0-153-5ff3597f02c57411&requestid=20261128035537369323548380&token=31850C%7CMIXED&pt=0&slot=3",
-   "image": "https://ads-partners.coupang.com/image1/0t_iUEdBc-wCMyja0ki93eiauiRSKsTwltobCFaPSBZ3e5n7T8ZDLgupvJ-y5ABhnC77ehzzoVoy4Uq2WgivBFgmTPCA3N3m4F4RQeb7x2z9clTEp-QVUvNcBcsLjvpAsBXbMDv-5qQR8S7kn08tjMB3PLISs695wJ213aR97y404biTisGj6PglFT9fNDNSVjna8xvEY-EOenPMjBeTRxTAjhXfJWZWhJ00OK6_DCE9kIFUXWfJyOSkvSI04b-_L5Lk_f-2ws1Whh5mUU7C0qdTa-QvOD-iNtMuonm7xL5dmc3R94YYmReqoVAUP7du1N5OrUlz8nxxXhLhe9ARg96Niu1uxLNL426xPMdZzjngEavYF8CliFVqOq23VlU9U6JJmcxjy1kIwIgr5UZQZrkjNKUdXAQfffijWasWNhRZ4fPpSV0mq1Ibi88-YgKoVGj7-YLhPfsouWrTKCIL1quh9k5Sgo9pesAO0jxJO5cBFWDmSHm9t7GJ7kocmdBdPMCrrVn_lipxyQykOVyW9rlEpxgwlo8bGg==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=9086822249&itemId=26699607563&vendorItemId=93708718279&traceid=V0-153-5ff3597f02c57411&requestid=20261128160304401133648532&token=31850C%7CGM&pt=0&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/cuKbUIRnrwvt-QZjctf7usnyusjfgE7dA_fmUoPyQJX8Y0vUcYgbXlq8BEvkDzBV-w6FRwSsxpnyKlVLYRibmcBLTsXutlhKRqBkcBvFSieMlE7ikppPRnGb4Xzx1wavWRZXHfFocqQRkLDIg8Y8_KyRiDDZWxvLePWAYMy-QStvw7bfc-j4HNAtO0bV66lMBCszBubTDrKV-_tHQBROXq66qU-ngZ9eA2uDcAQJoPG2FVxfJbZY7Zyl54QE3AQlRg1ZMMwK6CH-9EkIXDYkj2C0jVNNgo8oxHSUqsD2WPSL7xgAvPNxFJZElOt3LpwybcYGd0PXz8bjJv3oNZE1SJyTD9V6fYxdaAEvWYPLy2ujBb8rTjdMhnXzovf7cIqFKcqT2TiMKXO3eXDMWYM0R9YSsDck9V_-SzfCvAKi6Qj3QUcfSB419AkHRRnPFk8ybjWAlFdJX6sI48FWUBOZbh9XShZU9NKp6RiYrWX97A9jp3mXxAzDMzQccjk8_4E7zKgXPDO_82rnZSiWfPWwYjfW2UGgyW8=",
    "price": 22500,
    "rocket": true
   },
@@ -34,17 +16,17 @@
    "id": "cp-8920716720",
    "kind": "coupang",
    "title": "크라운출판사 2026 피부미용사 필기 한권으로 합격하기",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=8920716720&itemId=26067768162&vendorItemId=4866412014&traceid=V0-153-195ac15a501f0503&requestid=20261128035537369323548380&token=31850C%7CMIXED&pt=0&slot=4",
-   "image": "https://ads-partners.coupang.com/image1/lUCMsd1JAlmvFa9wlQ8eu_d6lxOO0LArOjvk-aShsi730hN0PtFOXb-vXvygp-w631HdnmsOFkoN0RyNwmi2A2NQskT6rpFHeMWdb4Rk9dQwBPrRcRxU0maC4NuxSOBVs8rjvk0R-E3hu8DwFnPgpnVfz1Kuod45JZndKmeZ3fj1zLAk3A16MPmEhUTMSjpvByqQbG1eXhKRNNqtepqlXfs2J1kunK57Yvbw9B76Hbxto6ASnbIF0DgK-otKTI1ZbDsL62YDsnTb-MZZ4TzsVFDgj8idwt8qyCn9TSxGjHXKVJTjW62V9aK3wLqp03VPElq3xhMh3wAwGJhPXQtF0gWKpC_UinYeMe5CPQb3VUeW8FbBFpwZca7XT1-TkgGmC-F9iYZCfdvbxpA-1vyrfm474Zz_lK8K6Pqo5jFJr06-WctETyMHPuoeem0klRLZVqMVR29a_TW8Yr8-Qcq13OWDapPX0I1YstxIKUELAlkHOh0AvqIyQ0y8mqTAJzQg70dLkUfPnsv6NVdhcK3eJWrGPqK4qDNO9aB1m4c9F-g8omfhQEis1z4=",
-   "price": 28800.0,
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=8920716720&itemId=26067768162&vendorItemId=4866412014&traceid=V0-153-195ac15a501f0503&requestid=20261128160304401133648532&token=31850C%7CGM&pt=0&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/zS6454rZZ1mrEEO3zfMRclm5VOoGqdv-bNspNVjhJsmzozT6viruGkJjLn8r_hww3mqu0jPVkoeQswoSDLBRLCKvOhWdgisxCKvlCPYnazwgnQRrbiYzHf7S0bcBawxDyOlw9fIK_QGosw_St9ItJTXw5H6-kbd1geRQqUPJL-aJDE9zwSIuwlRiGEk8odY4Jfbxaj5Vv-4-YrylSQxys3CfhGkMM_1ipjG0_GjNPxmBbR6hCx4nj7E6B3Q2wriGjYgxfID95c5ptHNXp3reoEHAoIhipHwlr6EIkN_JOTtbxLwABBds4SHjDXyFGTx5XYwtpLGA7qCLZCvoVY-ZmOZ8-h1RvrJeJ3ZG0ChK0DSXaZ95Lmne4SOrYRlj5LcxpOgA4_7FmvEth-FCq0cWbPld5etpDtt1z0oYZ0IMUXRwnAwRBdC3UPJ4tGINKjQnSR3Nik0bdyvNwOwxBBN61nnfqV3hJJRTc1KfmqadQap4hrcG3sYv3rbQdm8kDciLfYTHQ_eg8iNM-n30xzWbFdTNit4DwEDTJVxka3I3ASb8Fnxqr5U=",
+   "price": 28800,
    "rocket": false
   },
   {
    "id": "cp-9821461209",
    "kind": "coupang",
    "title": "크라운출판사 2027 딱2주만집중 피부미용사필기 총정리문제",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=9821461209&itemId=29416074715&vendorItemId=94575876190&traceid=V0-153-cc7161a8af31ac3d&requestid=20261128035537369323548380&token=31850C%7CMIXED&pt=0&slot=5",
-   "image": "https://ads-partners.coupang.com/image1/kEhbqP1Wk7R7SogZkCgc9Iq-QPjDW5nJo4pOzSePPJwkRU8jXx9SSWL4uDKYFDQigP3iXPtMMF8mqqNBzwz00_bYGmZMcl-0YynMLtiuGwk25SgQ1peO6a1gyTHxPGyNqeE6o3w6vz-IsszcO6erAA6EPnU84u8bG2RTyJO4JBUN2umkEGItJHw2Rh970gqIVOmfOnx_0AcxpkwLL_lbLVJaIDsuEQ3BJ5Gy5WzwI6CYMIJHruYtUjacsSrcvmvvDi0QqxS6IDyKgMLN2SAUHnP9KlfR3PJyzWnF2vzdLZWehahHLCJwbTpe5QLdBEn7Qp91qw7rfnK6dpSQvy5CZhNI-J5RoEBg21D9Hn0lfOL4BH2dBWuSs7iIsh0WzO4FoCyZF2z0F3Sa-sUJkGK3_WmGZxrQTXtv7W2sdxJVXc9L1ERDTDg6e3V72GnSfhVrRbDSAsBlB8DWasRlkSPAZ_PYna-xpRYhAtEAVgu5vxuPYw8tMeaoWiiqspijDE17-EtCOO7_GTHUvxOnRF3sNXDQy4FyIKfYI3Bc3DH9PBWxXPkWOKhlXC1K",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=9821461209&itemId=29416074715&vendorItemId=94575876190&traceid=V0-153-cc7161a8af31ac3d&requestid=20261128160304401133648532&token=31850C%7CGM&pt=0&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/zCiBauurTeieCHTAzJ3tnrLAcngaRWGO_PaMdQmtpTAhqKRbq1Figik3KtVX4-Vo87C1owIJgFJbQp5YNIYrcmkt7Pkt4E3PrvvoWvlVOzWvzJvfTxuMvGnIPT8TqQrct3OSk1dCv4MB2UrX81Qe6ZBLG_X83EdnxpNwOx2kzwZHBKYMzNt7ajOZex-GAxD-cOnutM2KJVK0ZueqiRVHdeVImNIN0e_6_EDThS4JCuJ_0bWNH6ZCn0l-e1QszDIP17vPACYliRVEXXiBfK7GVYgJuMHBJR-WimJN2o7r18kOIsHXozp11BNAUS5iRW_IKl_2DFEnS8LyXOL-yojdMAwpq-tUmn_kvnoDj8m-XUs2lTt3mV3hJYjMkNNoDo-7qUJnGAcNFjyqIJdzP2EALgu32kBROvTi-UB9cvXptkblRgyn9ha7AnmnzX19YNtvDJ5ZXOiumgVc7WL4CsR4LbkHJxFIfpBeDmLS6illK0ILZgzRMxKkFQdcDFp1T56KI2unFG4p_lRqoxUnEJEp2-gpOvXUT1wOvg28NTwflfJ7Beq6JqMO",
    "price": 14400.0,
    "rocket": false
   },
@@ -52,9 +34,27 @@
    "id": "cp-9698935492",
    "kind": "coupang",
    "title": "크라운출판사 2027 1주일완성  피부미용사 필기시험 8절",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=9698935492&itemId=29012474559&vendorItemId=88143733196&traceid=V0-153-e189096bb72a299e&requestid=20261128035537369323548380&token=31850C%7CMIXED&pt=0&slot=6",
-   "image": "https://ads-partners.coupang.com/image1/pUBspm8-Dkdg_szRpRl1BeMlhR2j1i9NMVl03PlbfXfDDkh7bZZq-HD-O61f_d8lqhahrKJl-usNe2EmSKpjLSjJdFQ6lRnU88jFSmc64j4-TEqRFaBJcT673-g9pfwo5igMq1c1BHbq2lDlx0gvxnl4xX8K7SG22T2UYyx80WOCKU-vRtfZGk7gQgahyEG51iCakyOGZncyUfB8BRIgJR0yGTOdsvkNeBWUewz5nK22nZH3ER9FMJ-QM9IYggTSexriSWHZ-p-hwI-cGTBRl_uRv2niC2z8x952Nd9IS9gOJWKCU5abFgJTIbhZ7DW16owasTLssNVTIdZbEKzdG1KePIsHnDl_SgvEYSxYFj9tvAXdUvAgt6hXno2LGtGm6dfG-lQqLXUmpuMIKPyfQ1P8N5TDd2yUlVQuowdj2bU1fngIN7B5fGoEyJwVihj5FwVA1ItB-9P-20RhAGCo8pLn4HFvD6bxKVX29qS20X_vLgoRQsm9MTYN0UuprkwJIcmL-bTbNZSfYpcCMCV6BaNrD0uWitoxII8SUBmgWQxKJ7tQyaMGI2C-hA==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=9698935492&itemId=29012474559&vendorItemId=88143733196&traceid=V0-153-e189096bb72a299e&requestid=20261128160304401133648532&token=31850C%7CGM&pt=0&slot=4",
+   "image": "https://ads-partners.coupang.com/image1/1W4fxvgx4MVJmMeY1TX_3101wzzvtl4jcxFA3o93ZqSN_cyPvodz_FooEpIqo58eXfwpQzvQ7u5tejZarXvD3CXoqC3wBpqsBY9BzzkniWIab0CpLB7RSkcVuiZzSFrMgQ5MXjKmMGFq5VkZjrpT5_di2ZrVS6MC-cypLC3MKpBncecgXQbv_lNyNz4M1B_1ZvozLWusDnir7artxK68RwIioSaDmtEby3BnIBqUpi-famp7akgrrf2ueQvDjaqBjAVFA1M0j6LLMDQs_rtLyWD1hXk1yDUXogMaM2YI1uahuvJEFROVwrAAviOJXzthw6fTdnesMxWnG4NUVlpiIRMgveGYIIOouPAtOgbwb477siPfRNyUq1S-hdLzVhrKJpszzf6rQQz-cBVOAuOy347SfZXSjftuBzfTtydAbEeh_bXSMgNtm25BagWqO5DyJoqA8DXwkeaXW-zmqGKx2nDdBpzZo227VNomR8p2jniyOqwSnYIPMG4K_-mrSNRFVaHzcTXcy553jSPzQGYjiKj21-72MQ2Hd23KJe4-MWVGaVAPJ9Q=",
    "price": 18000.0,
+   "rocket": false
+  },
+  {
+   "id": "cp-9823547691",
+   "kind": "coupang",
+   "title": "2027 기분파 피부미용사 필기:최신경향핵심빈출문제+쪽집게핵심요약집",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=9823547691&itemId=29422577806&vendorItemId=96332625436&traceid=V0-153-d5f0caaf880d91aa&requestid=20261128160304401133648532&token=31850C%7CGM&pt=0&slot=5",
+   "image": "https://ads-partners.coupang.com/image1/gxexI6_tJgh7I-s4g_afrc0WCfIttqXU2NAoGijjKm2eW9nzkaKHlEPGZ2AX0d3VS5-fI2RT-ki5Ga1sQuJDbKlZgckSi_nTQZ6Hc3F9Qonz1WgCniu87zSluunHmMpAmwTPgNbO2bYwVBToSEc7WHuk8_8fDuwMZ_P8ZscYPvAHR271hvawrpWJoEwhE5Yln33Ekk6fN7hiop5xYtFAnxOx2AqPlyELWGioLw22emJyXYIjD-Em0gxrrn8TDF7EhLwkla4biiAYEdqopRUR8qY6NLEkC_kf0erO8AtL1VESKIWXVyg2BZSo0i-C51Z7RWmPOZArr3plDTqAdbqXcbZXxqr1kW4E_inNA74YuWMn64rzv3tCqE5SXLuqkFkag-d_Bivt5HIkLe4q3DTrtTtJFJrbh_gWIFMeaBd3Fc6NUA9i_Yz_brOSBCNzmyX2RkvDnIxQXhbUl4ecp_zcrASO3XorcctSMpN87q6MKfaHTKomJt0Wa3Ksvft1dNnMrUMO17fLVlZTCUy4JE2flk9OgSNPgLV5FyuIETNrZSRxwcmu1qE=",
+   "price": 22500.0,
+   "rocket": false
+  },
+  {
+   "id": "cp-9530437163",
+   "kind": "coupang",
+   "title": "(에듀웨이 김효정 외) 2026 기분파 피부미용사 필기",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6663820&subid=skinapp&pageKey=9530437163&itemId=28420863385&vendorItemId=93705220410&traceid=V0-153-9ddc67b11168d18b&requestid=20261128160304401133648532&token=31850C%7CGM&pt=0&slot=6",
+   "image": "https://ads-partners.coupang.com/image1/u41-oWdi7T7ScON2u2JbHucZeZHVRWatg350ob2kFUaXOr31PBjIMTc3k0TnzcYXnzj-mIUOXF368zXbxseJcD_PWmCXEvmzogql_qbOQLU43_G7D0yKxuoHLN-ZV4XSWvuOfg4kOgJHQSXf7-kS5hcaaHhUcYdqCmmPCVy3MVyBJ_W1c6QdrV5IpD9zwZrVGMP5u9BJ-rvHxxPjdePqhzpjGzLe0TSw549wpWWjSK-wXUyeMccJXFYNv6xa3dKiErnfrkUvo-IDQRbtIJ9Zk_NFZHsYG1Me_XqdmDAu5JmwfYxSRgKkaNC_uRjEC4OVbZllvKyhNE10y2DekNnQ4meuxFJ6lhOl0VQ6S0XK99lTcL5_s20st09IH9RJEA4aSp0KXzfgoPDW3BnHo4aA8Xbhk41nesKgtRn5B3FUMdv-ZuSa3sMPlVnvvdQfdoXJf1hNpaRV1qFdd2_aqo0Ln3-6Nc0sWlnShJVRHYIsUzKhXlPn_AQohmVRNuwGnGDf5WDwn3BtMDV_uRr2wm7qmY-r9VS8FqQbFIPJ114jWkAFL2C_0M8=",
+   "price": 27880.0,
    "rocket": false
   }
  ],
